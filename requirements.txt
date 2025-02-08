@@ -1,0 +1,5 @@
+lxml~=5.3.0
+torch~=2.5.1
+numpy~=2.2.2
+torchvision~=0.20.1
+pillow~=11.1.0
