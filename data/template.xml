@@ -1,0 +1,1047 @@
+<templates>
+    <template id="template1">
+        <constellation id="白羊座">
+            <expectation id="财富自由">
+                <stone>
+                    <name>晨曦之瞳</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，象征着王者的勇气与信念。其金橙光泽将为你带来财富与事业的增长。</meaning>
+                    <motivation>愿它的耀眼能量，助你在接下来的一个月，把握机遇、财源滚滚。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="真爱降临">
+                <stone>
+                    <name>红宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，红宝石如烈火般燃烧，象征着激情与热爱，能为白羊座带来真爱与浪漫。</meaning>
+                    <motivation>愿它的炽热能量，引领你迈向一段深刻的爱情旅程，勇敢追求真爱。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="健康长寿">
+                <stone>
+                    <name>红玛瑙</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，红玛瑙代表着生命力和健康，帮助白羊座保持旺盛的体力和精力。</meaning>
+                    <motivation>愿它的能量为你注入活力，保持身心的健康与长寿。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="职业成功">
+                <stone>
+                    <name>黄水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黄水晶象征着事业的顺利与财富，能够帮助白羊座在职场上获得成功。</meaning>
+                    <motivation>愿它带来事业的腾飞与财富的积累，推动你在职业道路上稳步前行。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="家庭和睦">
+                <stone>
+                    <name>珍珠</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，珍珠象征着家庭的和谐与温暖，能够增进白羊座与家人之间的亲密关系。</meaning>
+                    <motivation>愿它带来家庭的安宁与和睦，让你与家人的关系更加紧密。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="内心平静">
+                <stone>
+                    <name>蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝宝石帮助白羊座平静内心，减少压力，恢复内心的平和。</meaning>
+                    <motivation>愿它带来心灵的宁静与清晰，让你在忙碌中保持冷静与理智。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="创意灵感">
+                <stone>
+                    <name>紫水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶能够激发白羊座的创造力与灵感，帮助你在工作和生活中产生新的想法。</meaning>
+                    <motivation>愿它带来智慧与灵感，助你在各方面实现创新和突破。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="友情长存">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石象征着真挚的友情，能够帮助白羊座维持和谐的友情关系。</meaning>
+                    <motivation>愿它带来永恒的友情，让你与朋友的关系更加深厚与持久。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="自信提升">
+                <stone>
+                    <name>虎眼石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，虎眼石帮助白羊座提升自信心与决断力，勇敢面对挑战。</meaning>
+                    <motivation>愿它带来无畏与自信，助你克服一切障碍，勇往直前。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="冒险精神">
+                <stone>
+                    <name>摩根石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，摩根石能够激发白羊座的冒险精神与探索欲，助你追寻未知的旅程。</meaning>
+                    <motivation>愿它带来冒险的勇气，推动你去探索新的领域和未知的世界。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="学业进步">
+                <stone>
+                    <name>青金石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石能帮助白羊座在学术上获得更大的进步，提升智慧与专注力。</meaning>
+                    <motivation>愿它带来学术的突破和进步，帮助你在学业上取得优异成绩。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="快乐幸福">
+                <stone>
+                    <name>海蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，海蓝宝石代表着内心的宁静与喜悦，能够为白羊座带来快乐与幸福。</meaning>
+                    <motivation>愿它带来无尽的幸福与喜悦，帮助你拥抱美好生活。</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+
+        <constellation id="金牛座">
+            <expectation id="财富自由">
+                <stone>
+                    <name>晨曦之瞳</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，象征着王者的勇气与信念。其金橙光泽将为你带来财富与事业的增长。</meaning>
+                    <motivation>愿它的耀眼能量，助你在接下来的一个月，把握机遇、财源滚滚。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="真爱降临">
+                <stone>
+                    <name>玫瑰石英</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，玫瑰石英代表着爱与和平，能够帮助金牛座吸引真爱并维持美好关系。</meaning>
+                    <motivation>愿它带来温暖的爱与安宁的心，让你收获甜美的爱情。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="健康长寿">
+                <stone>
+                    <name>绿幽灵水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿幽灵水晶具有强大的治愈力，能够帮助金牛座保持身体健康和长寿。</meaning>
+                    <motivation>愿它带来身体的平衡和活力，提升你的健康状况，长寿常伴。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="职业成功">
+                <stone>
+                    <name>黄水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黄水晶象征着财富和职业的顺利，帮助金牛座在职场中获得成功。</meaning>
+                    <motivation>愿它带来事业的进展与成功，让你在职场上快速崭露头角。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="家庭和睦">
+                <stone>
+                    <name>碧玺</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，碧玺帮助金牛座在家庭中建立和谐的关系，增强家庭成员之间的理解和沟通。</meaning>
+                    <motivation>愿它带来家庭的幸福与和谐，增进家人之间的关爱与支持。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="内心平静">
+                <stone>
+                    <name>蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝宝石代表着冷静与理智，帮助金牛座保持内心的平和与安宁。</meaning>
+                    <motivation>愿它带来宁静的心灵，让你在挑战中保持冷静和从容。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="创意灵感">
+                <stone>
+                    <name>紫水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶能激发金牛座的创造力，帮助你在工作和生活中找到灵感与突破。</meaning>
+                    <motivation>愿它带来智慧与灵感，推动你在事业和创意上取得成功。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="友情长存">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石象征着真挚的友情，能够帮助金牛座维持和谐的友情关系。</meaning>
+                    <motivation>愿它带来永恒的友情，让你与朋友的关系更加深厚与持久。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="自信提升">
+                <stone>
+                    <name>虎眼石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，虎眼石帮助金牛座提升自信心与决断力，勇敢面对挑战。</meaning>
+                    <motivation>愿它带来无畏与自信，助你克服一切障碍，勇往直前。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="冒险精神">
+                <stone>
+                    <name>摩根石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，摩根石能够激发金牛座的冒险精神与探索欲，助你追寻未知的旅程。</meaning>
+                    <motivation>愿它带来冒险的勇气，推动你去探索新的领域和未知的世界。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="学业进步">
+                <stone>
+                    <name>青金石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石能帮助金牛座在学术上获得更大的进步，提升智慧与专注力。</meaning>
+                    <motivation>愿它带来学术的突破和进步，帮助你在学业上取得优异成绩。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="快乐幸福">
+                <stone>
+                    <name>海蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，海蓝宝石代表着内心的宁静与喜悦，能够为金牛座带来快乐与幸福。</meaning>
+                    <motivation>愿它带来无尽的幸福与喜悦，帮助你拥抱美好生活。</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+
+        <constellation id="双子座">
+            <expectation id="财富自由">
+                <stone>
+                    <name>黄水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，象征着财富与职场的顺利，帮助双子座吸引更多的机会和财富。</meaning>
+                    <motivation>愿它为你带来源源不断的财富，助你在事业上攀登更高的巅峰。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="真爱降临">
+                <stone>
+                    <name>玫瑰石英</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，玫瑰石英象征着爱情与温柔，能够吸引真爱并带来浪漫。</meaning>
+                    <motivation>愿它的能量将真爱带入你的生活，让你拥有甜蜜的爱情。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="健康长寿">
+                <stone>
+                    <name>绿玉髓</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿玉髓能够帮助双子座保持身心健康，促进身体和心灵的平衡。</meaning>
+                    <motivation>愿它的疗愈力量帮助你拥有更强健的体魄和更加健康的生活。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="职业成功">
+                <stone>
+                    <name>黄水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黄水晶象征着职业上的好运与顺利，能帮助双子座取得事业成功。</meaning>
+                    <motivation>愿它帮助你在职场上迅速取得突破，攀登上职业的巅峰。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="家庭和睦">
+                <stone>
+                    <name>碧玺</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，碧玺能够帮助双子座与家人之间增进理解与沟通，创造和谐的家庭氛围。</meaning>
+                    <motivation>愿它带来家庭的温暖和幸福，让你与家人关系更加融洽。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="内心平静">
+                <stone>
+                    <name>蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝宝石能够帮助双子座平复内心的波动，保持冷静与理智。</meaning>
+                    <motivation>愿它带来内心的宁静与智慧，让你在压力中保持从容不迫。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="创意灵感">
+                <stone>
+                    <name>紫水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶能激发双子座的创意灵感，推动思维的创新与突破。</meaning>
+                    <motivation>愿它带来创意与智慧，助你开创属于自己的精彩事业。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="友情长存">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石象征着真挚的友情，帮助双子座维持和谐且持久的友谊。</meaning>
+                    <motivation>愿它帮助你保持与朋友之间的深厚感情，友情长存。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="自信提升">
+                <stone>
+                    <name>虎眼石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，虎眼石能够增强双子座的自信心，帮助你勇敢迎接生活中的挑战。</meaning>
+                    <motivation>愿它带给你足够的自信，帮助你无畏前行。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="冒险精神">
+                <stone>
+                    <name>摩根石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，摩根石能激发双子座的冒险精神，让你敢于探索未知的世界。</meaning>
+                    <motivation>愿它为你带来勇气，帮助你在新的旅程中尽情冒险。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="学业进步">
+                <stone>
+                    <name>青金石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石有助于提高双子座的专注力，助力学业进步。</meaning>
+                    <motivation>愿它带给你智慧与专注，助你在学业上取得卓越成就。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="快乐幸福">
+                <stone>
+                    <name>海蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，海蓝宝石代表内心的安宁与快乐，帮助双子座找到幸福的源泉。</meaning>
+                    <motivation>愿它为你带来无尽的幸福与愉悦，让你每一天都充满阳光。</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+
+        <constellation id="巨蟹座">
+            <expectation id="财富自由">
+                <stone>
+                    <name>金发晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，金发晶能够帮助巨蟹座吸引财富与资源，提升财运。</meaning>
+                    <motivation>愿它的金光为你带来丰厚的财富，帮助你稳步走向财务自由。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="真爱降临">
+                <stone>
+                    <name>月光石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，月光石象征着爱情与浪漫，帮助巨蟹座吸引真爱与深情。</meaning>
+                    <motivation>愿它的柔和光辉引领你走向真爱的怀抱。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="健康长寿">
+                <stone>
+                    <name>翡翠</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，翡翠象征着健康与长寿，能够保护巨蟹座的身体健康。</meaning>
+                    <motivation>愿它为你带来长久的健康与幸福。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="职业成功">
+                <stone>
+                    <name>黄水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黄水晶能够为巨蟹座带来职业成功，提升职场运势。</meaning>
+                    <motivation>愿它帮助你在职场上取得非凡成就，向成功迈进。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="家庭和睦">
+                <stone>
+                    <name>珍珠</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，珍珠象征着家庭和睦与温暖，能够增强巨蟹座家庭成员之间的亲密关系。</meaning>
+                    <motivation>愿它为你的家庭带来幸福与安宁，让每个家庭成员都感受到关爱。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="内心平静">
+                <stone>
+                    <name>蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝宝石能够帮助巨蟹座稳定情绪，带来内心的宁静与平和。</meaning>
+                    <motivation>愿它的清澈光辉帮助你保持内心的冷静与安宁，平衡情绪。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="创意灵感">
+                <stone>
+                    <name>紫水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶具有激发创意与直觉的能力，帮助巨蟹座激发灵感。</meaning>
+                    <motivation>愿它为你带来无限的创意与智慧，帮助你开创独特的成就。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="友情长存">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石象征着友情与信任，能够增强巨蟹座与朋友之间的深厚情谊。</meaning>
+                    <motivation>愿它为你带来持久的友谊，帮助你与朋友保持真挚的关系。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="自信提升">
+                <stone>
+                    <name>虎眼石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，虎眼石能够增强巨蟹座的自信心，帮助你展现勇气与力量。</meaning>
+                    <motivation>愿它给你带来无尽的勇气和信心，让你展现最好的自己。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="冒险精神">
+                <stone>
+                    <name>摩根石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，摩根石能够帮助巨蟹座克服内心的恐惧，鼓励你迎接新的冒险。</meaning>
+                    <motivation>愿它的力量引导你走出舒适区，勇敢迈向人生的冒险与挑战。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="学业进步">
+                <stone>
+                    <name>青金石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石帮助巨蟹座提高学习与专注力，助力学业进步。</meaning>
+                    <motivation>愿它带来专注与智慧，帮助你在学业上突破自我，取得佳绩。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="快乐幸福">
+                <stone>
+                    <name>海蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，海蓝宝石象征着内心的宁静与快乐，帮助巨蟹座保持积极乐观的心态。</meaning>
+                    <motivation>愿它为你带来幸福与喜悦，让你的生活充满阳光。</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+
+        <constellation id="狮子座">
+            <expectation id="财富自由">
+                <stone>
+                    <name>红玛瑙</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，红玛瑙能激发狮子座的能量与创造力，帮助其吸引财富。</meaning>
+                    <motivation>愿它的火红光芒带来丰厚的财富，让你实现财务自由。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="真爱降临">
+                <stone>
+                    <name>玫瑰石英</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，玫瑰石英象征着真爱与浪漫，帮助狮子座吸引心灵契合的伴侣。</meaning>
+                    <motivation>愿它的温柔光辉为你引来真爱，让你体验爱情的甜蜜。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="健康长寿">
+                <stone>
+                    <name>红宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，红宝石能增强狮子座的体力与活力，带来健康与长寿。</meaning>
+                    <motivation>愿它为你注入旺盛的生命力，让你享有健康与活力。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="职业成功">
+                <stone>
+                    <name>金发晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，金发晶能够帮助狮子座在事业上获得成功，提升职场运势。</meaning>
+                    <motivation>愿它的金光照亮你的职业之路，带来成功与晋升的机会。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="家庭和睦">
+                <stone>
+                    <name>珍珠</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，珍珠象征着家庭的和谐与温暖，帮助狮子座促进家庭关系的融洽。</meaning>
+                    <motivation>愿它带给你的家人间更多的理解与关爱，让家庭充满和睦。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="内心平静">
+                <stone>
+                    <name>青金石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石能够平静狮子座的心灵，帮助其找到内心的平和。</meaning>
+                    <motivation>愿它的深蓝色光辉带来宁静与清晰的思维，帮助你保持内心的安定。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="创意灵感">
+                <stone>
+                    <name>紫水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶激发创意与直觉，帮助狮子座迸发灵感。</meaning>
+                    <motivation>愿它为你带来创造力的火花，启发你在各个领域取得突破。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="友情长存">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石象征着友谊与和谐，增强狮子座与朋友间的友好关系。</meaning>
+                    <motivation>愿它帮助你维护真挚的友谊，让你的人际关系更加稳固。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="自信提升">
+                <stone>
+                    <name>黄水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黄水晶增强狮子座的自信心，帮助你在生活中展现个人魅力。</meaning>
+                    <motivation>愿它的光辉照亮你的自信之路，让你在人生舞台上自信光彩照人。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="冒险精神">
+                <stone>
+                    <name>摩根石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，摩根石能帮助狮子座克服恐惧，增强冒险精神，勇敢追求梦想。</meaning>
+                    <motivation>愿它为你带来勇气，让你敢于面对人生中的挑战。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="学业进步">
+                <stone>
+                    <name>蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝宝石帮助狮子座提升学习能力，专注学业。</meaning>
+                    <motivation>愿它的光辉带来智慧和启迪，帮助你在学业中不断进步。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="快乐幸福">
+                <stone>
+                    <name>海蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，海蓝宝石象征着快乐与幸福，带给狮子座内心的宁静与喜悦。</meaning>
+                    <motivation>愿它的清新光芒为你带来无尽的快乐，充满幸福的每一天。</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+
+        <constellation id="处女座">
+            <expectation id="财富自由">
+                <stone>
+                    <name>琥珀</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，琥珀能够帮助处女座吸引财富与幸运，促进财运增长。</meaning>
+                    <motivation>愿它的温暖光芒带给你充沛的财富与机会。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="真爱降临">
+                <stone>
+                    <name>红宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，红宝石象征着热情与爱，帮助处女座吸引真爱。</meaning>
+                    <motivation>愿它的灿烂光芒为你带来甜蜜的爱情。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="健康长寿">
+                <stone>
+                    <name>翡翠</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，翡翠代表着健康与长寿，能够帮助处女座维持健康的体魄。</meaning>
+                    <motivation>愿它的能量为你带来健康与活力，助你长寿。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="职业成功">
+                <stone>
+                    <name>青金石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石能够帮助处女座在职场中提升智慧与决断力，带来职业成功。</meaning>
+                    <motivation>愿它帮助你在职业道路上取得辉煌的成就。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="家庭和睦">
+                <stone>
+                    <name>珍珠</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，珍珠能够增进家庭和谐与亲情，帮助处女座营造温馨的家庭氛围。</meaning>
+                    <motivation>愿它带来温暖与和平，令你的家庭充满爱与和谐。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="内心平静">
+                <stone>
+                    <name>月光石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，月光石能帮助处女座提升内心的平静与安定，平衡情绪。</meaning>
+                    <motivation>愿它的柔和光辉为你带来宁静的心境，帮助你保持内心的平和。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="创意灵感">
+                <stone>
+                    <name>紫水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶象征着创意和智慧，激发处女座的灵感和创造力。</meaning>
+                    <motivation>愿它的深紫色能量激发你的创新思维，助你突破创作瓶颈。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="友情长存">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石能够增强友情与人际关系，帮助处女座巩固深厚的友谊。</meaning>
+                    <motivation>愿它为你带来长久的友谊和支持，让你的人际关系更和谐。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="自信提升">
+                <stone>
+                    <name>黄水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黄水晶能提升处女座的自信心和内在力量。</meaning>
+                    <motivation>愿它的阳光能量让你充满自信，勇敢面对生活中的挑战。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="冒险精神">
+                <stone>
+                    <name>橙宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，橙宝石帮助处女座克服对未知的恐惧，激发冒险精神。</meaning>
+                    <motivation>愿它的橙色能量鼓励你敢于冒险，开创新的可能性。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="学业进步">
+                <stone>
+                    <name>蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝宝石提升处女座的学习能力和智力，帮助你在学业上取得进步。</meaning>
+                    <motivation>愿它的光辉为你带来智慧与洞察力，帮助你在学业中突飞猛进。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="快乐幸福">
+                <stone>
+                    <name>海蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，海蓝宝石能带来幸福与宁静，帮助处女座享受生活的美好。</meaning>
+                    <motivation>愿它带给你内心的宁静与幸福，让你享受每一刻。</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+
+        <constellation id="天秤座">
+			<expectation id="财富自由">
+				<stone>
+					<name>摩根石</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，象征着财富与繁荣。摩根石散发出的柔和光泽，能够带来财运与事业的增长。</meaning>
+					<motivation>愿它的能量帮助你吸引更多财富，开启财富自由的生活。</motivation>
+				</stone>
+			</expectation>
+			<expectation id="真爱降临">
+				<stone>
+					<name>粉色钻石</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，粉色钻石的温柔光辉象征着深沉的爱情与情感的升华。</meaning>
+					<motivation>愿它的爱之能量为你带来浪漫的邂逅和真爱的降临，走进属于你的幸福时光。</motivation>
+				</stone>
+			</expectation>
+			<expectation id="健康长寿">
+				<stone>
+					<name>翡翠</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，翡翠象征着健康和生命力。</meaning>
+					<motivation>愿翡翠的能量为你带来活力和健康，让你拥有长寿与安宁。</motivation>
+				</stone>
+			</expectation>
+			<expectation id="职业成功">
+				<stone>
+					<name>黄水晶</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黄水晶充满阳光的光泽，能够激发你在职场中的自信与成功。</meaning>
+					<motivation>愿它为你带来事业上的成功和稳步提升，收获更多的荣耀与回报。</motivation>
+				</stone>
+			</expectation>
+			<expectation id="家庭和睦">
+				<stone>
+					<name>珍珠</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，珍珠象征着家庭的和谐与亲情的滋养。</meaning>
+					<motivation>愿它为你带来温暖与和谐，让你与家人之间的关系更加亲密无间。</motivation>
+				</stone>
+			</expectation>
+			<expectation id="内心平静">
+				<stone>
+					<name>月光石</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，月光石的清澈光辉能够帮助你平复内心的波动，带来心灵的宁静。</meaning>
+					<motivation>愿它的柔和光芒为你带来内心的平静与安宁，帮助你找到属于自己的平和。</motivation>
+				</stone>
+			</expectation>
+			<expectation id="创意灵感">
+				<stone>
+					<name>紫水晶</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶象征着智慧与创意，能够激发你内心的灵感。</meaning>
+					<motivation>愿它的紫色光辉为你带来创作的灵感和智慧，帮助你在工作中实现突破。</motivation>
+				</stone>
+			</expectation>
+			<expectation id="友情长存">
+				<stone>
+					<name>蓝宝石</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝宝石象征着真挚的友谊与忠诚。</meaning>
+					<motivation>愿它的力量维系你与朋友们之间的深厚情谊，保持长久的友谊。</motivation>
+				</stone>
+			</expectation>
+			<expectation id="自信提升">
+				<stone>
+					<name>太阳石</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，太阳石象征着自信与勇气。</meaning>
+					<motivation>愿它的灿烂能量为你带来自信，让你在每个挑战面前都能够昂首挺胸。</motivation>
+				</stone>
+			</expectation>
+			<expectation id="冒险精神">
+				<stone>
+					<name>虎眼石</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，虎眼石的能量能够为你带来冒险的勇气和坚韧。</meaning>
+					<motivation>愿它的力量激发你面对未知的勇气，让你在生活中不断探索与突破。</motivation>
+				</stone>
+			</expectation>
+			<expectation id="学业进步">
+				<stone>
+					<name>青金石</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石代表着智慧和知识。</meaning>
+					<motivation>愿它的能量帮助你在学业上取得进步，增强你的学习能力与专注力。</motivation>
+				</stone>
+			</expectation>
+			<expectation id="快乐幸福">
+				<stone>
+					<name>托帕石</name>
+					<meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，托帕石象征着快乐、幸福与好运。</meaning>
+					<motivation>愿它的光芒为你带来无尽的快乐与幸福，让你的每一天都充满阳光。</motivation>
+				</stone>
+			</expectation>
+		</constellation>
+
+        <constellation id="射手座">
+            <expectation id="财富自由">
+                <stone>
+                    <name>金色黄水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，象征着富贵和光明。黄水晶的暖黄光芒将为你吸引财富与好运。</meaning>
+                    <motivation>愿它的力量帮助你突破财务困境，开启财富自由的大门。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="真爱降临">
+                <stone>
+                    <name>红宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，红宝石的火焰色泽将点燃你心中真爱的火花。</meaning>
+                    <motivation>愿它的深情能量让你在爱情路上更加坚定，迎接真爱的到来。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="健康长寿">
+                <stone>
+                    <name>祖母绿</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，祖母绿代表着生命与健康的平衡。</meaning>
+                    <motivation>愿它的绿色光辉带来健康与长寿，助你拥有充满活力的人生。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="职业成功">
+                <stone>
+                    <name>黑曜石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黑曜石带有强大的能量，可以帮助你克服职场中的所有障碍。</meaning>
+                    <motivation>愿它的保护能量引导你走向职业成功，成为职场中的佼佼者。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="家庭和睦">
+                <stone>
+                    <name>粉色玛瑙</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，粉色玛瑙象征着爱与和谐。</meaning>
+                    <motivation>愿它带来家庭的和睦与幸福，让你与亲人们的关系更加亲密。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="内心平静">
+                <stone>
+                    <name>蓝月光石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝月光石的温柔光泽将为你带来内心的宁静与平和。</meaning>
+                    <motivation>愿它的清新能量抚慰你的内心，帮助你保持冷静与平静。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="创意灵感">
+                <stone>
+                    <name>紫水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶是灵感与智慧的源泉。</meaning>
+                    <motivation>愿它的紫色光辉为你带来无尽的创意和灵感，让你在工作与生活中实现创新。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="友情长存">
+                <stone>
+                    <name>橙色宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，橙色宝石代表着友谊与团结。</meaning>
+                    <motivation>愿它带给你持久的友谊与温暖，令你与朋友们的关系更加牢固。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="自信提升">
+                <stone>
+                    <name>金发晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，金发晶的光泽能够增强你的自信心。</meaning>
+                    <motivation>愿它为你带来满满的自信，助你勇敢迎接每一个挑战。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="冒险精神">
+                <stone>
+                    <name>虎眼石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，虎眼石赋予你无畏的冒险精神与行动力。</meaning>
+                    <motivation>愿它带给你勇气与冒险的动力，让你在生活中不断挑战自我。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="学业进步">
+                <stone>
+                    <name>青金石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石是智慧和学问的象征。</meaning>
+                    <motivation>愿它的力量帮助你集中注意力，取得学业上的优异成绩。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="快乐幸福">
+                <stone>
+                    <name>黄玉</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黄玉象征着快乐和富足。</meaning>
+                    <motivation>愿它的光芒照亮你的人生道路，让你收获无尽的快乐与幸福。</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+
+        <constellation id="天蝎座">
+            <expectation id="财富自由">
+                <stone>
+                    <name>黄水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，代表着财富与权力，能够吸引贵人相助，带来财运与事业的稳步增长。</meaning>
+                    <motivation>愿它的能量为你带来丰富的财富，开启财富自由的大门。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="真爱降临">
+                <stone>
+                    <name>红宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，红宝石象征着激情与深沉的爱。</meaning>
+                    <motivation>愿它的温暖与能量带来真爱，点亮你的人生。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="健康长寿">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石代表着身体健康和活力。</meaning>
+                    <motivation>愿它的清新能量增强你的体力，保持健康与长寿。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="职业成功">
+                <stone>
+                    <name>黑曜石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黑曜石的能量有助于提升决策力和解决复杂问题的能力，促进职业上的成功。</meaning>
+                    <motivation>愿它的坚韧与力量引领你在职业道路上持续攀升。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="家庭和睦">
+                <stone>
+                    <name>月光石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，月光石的温柔能量带来家庭的和谐与亲情的滋养。</meaning>
+                    <motivation>愿它的能量为你的家庭带来更多温馨与平和。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="内心平静">
+                <stone>
+                    <name>紫水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶代表宁静与精神的清晰。</meaning>
+                    <motivation>愿它的神秘能量带给你内心的平静与深度思考的空间。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="创意灵感">
+                <stone>
+                    <name>瑙石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，瑙石是一种能够激发创意与想象力的宝石。</meaning>
+                    <motivation>愿它的力量点燃你内心的创意火花，带来灵感与创新。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="友情长存">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石带来忠诚与亲密友谊的能量。</meaning>
+                    <motivation>愿它的存在让你的友谊永存，深厚的情谊不会改变。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="自信提升">
+                <stone>
+                    <name>石榴石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，石榴石代表着热情与自信。</meaning>
+                    <motivation>愿它的能量提升你的自信心，让你在面对每个挑战时从容应对。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="冒险精神">
+                <stone>
+                    <name>黑曜石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黑曜石的能量能够增强勇气和冒险精神。</meaning>
+                    <motivation>愿它的力量鼓励你走出舒适区，勇敢迎接生活中的一切冒险。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="学业进步">
+                <stone>
+                    <name>青金石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石代表着智慧与深思。</meaning>
+                    <motivation>愿它的能量激发你的学习动力，帮助你在学业上取得长足进步。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="快乐幸福">
+                <stone>
+                    <name>托帕石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，托帕石带来幸福、快乐与好运。</meaning>
+                    <motivation>愿它的光芒为你带来充实的快乐时光，享受生活中的每一刻。</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+
+        <constellation id="摩羯座">
+            <expectation id="财富自由">
+                <stone>
+                    <name>黑曜石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黑曜石代表着力量、决心与财富，能够帮助你实现财富自由的梦想。</meaning>
+                    <motivation>愿它的力量助你稳步前行，突破所有障碍，快速迈向财务自由。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="真爱降临">
+                <stone>
+                    <name>蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝宝石象征着忠诚与爱情，能够吸引真爱降临。</meaning>
+                    <motivation>愿它的深蓝光芒为你带来深刻的爱情和心灵的伴侣。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="健康长寿">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石象征着健康与长寿，帮助你保持身体的活力与精力充沛。</meaning>
+                    <motivation>愿它的清新能量带给你健康的生活，延续你的长寿。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="职业成功">
+                <stone>
+                    <name>黑曜石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黑曜石象征着决心与毅力，能够帮助你在职场上迎接挑战，攀登事业高峰。</meaning>
+                    <motivation>愿它的坚韧力量助你成功，在事业上不断突破，成就非凡。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="家庭和睦">
+                <stone>
+                    <name>珍珠</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，珍珠象征着家庭的温暖与和谐，帮助家庭成员间建立起深厚的感情。</meaning>
+                    <motivation>愿它为你的家庭带来和睦与幸福，家庭成为你坚实的后盾。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="内心平静">
+                <stone>
+                    <name>蓝色碧玺</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝色碧玺能够帮助你清除杂念，保持内心的宁静与平衡。</meaning>
+                    <motivation>愿它带给你内心的宁静，使你在忙碌的生活中依然保持冷静。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="创意灵感">
+                <stone>
+                    <name>紫水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶能够激发你的创意与灵感，带来全新的思维方式。</meaning>
+                    <motivation>愿它的能量启发你的无限创意，推动你在艺术与创新的道路上前进。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="友情长存">
+                <stone>
+                    <name>红玛瑙</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，红玛瑙代表着友谊与忠诚，能够帮助你维护持久的友情。</meaning>
+                    <motivation>愿它带来真挚的友情和支持，让你的人际关系更加牢固。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="自信提升">
+                <stone>
+                    <name>石榴石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，石榴石代表着自信、热情与活力，能够提升你的自信心。</meaning>
+                    <motivation>愿它的能量帮助你增强自信，勇敢面对每一个挑战。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="冒险精神">
+                <stone>
+                    <name>黄玉</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黄玉能够激发你的冒险精神，鼓励你走出舒适区。</meaning>
+                    <motivation>愿它的阳光能量带给你更多的勇气与动力，去探索未知的领域。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="学业进步">
+                <stone>
+                    <name>青金石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石能够促进学习的专注力，提升知识的吸收与记忆能力。</meaning>
+                    <motivation>愿它帮助你在学业中取得优异成绩，顺利完成学业目标。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="快乐幸福">
+                <stone>
+                    <name>托帕石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，托帕石象征着幸福与喜悦，能够带来内心的满足感和对生活的热爱。</meaning>
+                    <motivation>愿它的温暖能量为你带来快乐与幸福的每一天，享受生活中的每一刻。</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+
+        <constellation id="水瓶座">
+            <expectation id="财富自由">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石象征着财富和繁荣，能够帮助你吸引财运与事业机遇。</meaning>
+                    <motivation>愿它的能量为你带来财富的增长，开启财富自由的生活。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="真爱降临">
+                <stone>
+                    <name>紫水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶能够吸引纯真而深刻的爱情，帮助你在感情上遇见对的人。</meaning>
+                    <motivation>愿它带给你与真爱相遇的机会，让你的感情世界充满甜蜜。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="健康长寿">
+                <stone>
+                    <name>海蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，海蓝宝石能够帮助你保持身体健康，增强免疫力。</meaning>
+                    <motivation>愿它的能量让你充满活力，保持健康的身体和长久的生命力。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="职业成功">
+                <stone>
+                    <name>黑曜石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黑曜石能够增强决策力与执行力，帮助你在职场上快速晋升。</meaning>
+                    <motivation>愿它的坚韧能量助你在职业道路上攻克一切困难，迈向成功。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="家庭和睦">
+                <stone>
+                    <name>珍珠</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，珍珠能够带来家庭成员之间的和谐与爱。</meaning>
+                    <motivation>愿它的温润光泽照亮你和家人的关系，让每一天都充满温馨与爱。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="内心平静">
+                <stone>
+                    <name>蓝色托帕石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝色托帕石能够帮助你清理杂念，保持内心的平静与清晰。</meaning>
+                    <motivation>愿它的冷静能量为你带来平和的心境，安抚你的情绪。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="创意灵感">
+                <stone>
+                    <name>瑙石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，瑙石能够激发你内在的创意与创新精神，帮助你在工作和生活中找到新的灵感。</meaning>
+                    <motivation>愿它的神秘能量激发你的想象力，为你的创意之路开辟新天地。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="友情长存">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石能够增强朋友之间的信任与默契。</meaning>
+                    <motivation>愿它的能量帮助你保持深厚的友情，走得更远。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="自信提升">
+                <stone>
+                    <name>红宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，红宝石能够增强自信心和勇气，帮助你在挑战中表现得更加果敢。</meaning>
+                    <motivation>愿它的能量让你充满自信，坚定地迈向每一个目标。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="冒险精神">
+                <stone>
+                    <name>月光石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，月光石能够激发你的冒险精神和探索欲望，帮助你迎接未知的挑战。</meaning>
+                    <motivation>愿它的能量带给你足够的勇气，去探索新领域，挑战自我。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="学业进步">
+                <stone>
+                    <name>青金石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石能够促进思维的活跃与深度，帮助你在学业上取得进展。</meaning>
+                    <motivation>愿它的能量为你带来智慧与专注，帮助你突破学习瓶颈，取得优异成绩。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="快乐幸福">
+                <stone>
+                    <name>托帕石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，托帕石能够带来无穷的快乐与幸福感，帮助你享受人生中的美好时光。</meaning>
+                    <motivation>愿它的光芒照亮你的心灵，让你每天都拥有充实和快乐。</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+
+        <constellation id="双鱼座">
+            <expectation id="财富自由">
+                <stone>
+                    <name>黄水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黄水晶代表着财富和繁荣，能够帮助你吸引财运和事业机会。</meaning>
+                    <motivation>愿它的能量助你步入财富自由的新时代，取得更加辉煌的成就。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="真爱降临">
+                <stone>
+                    <name>玫瑰石英</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，玫瑰石英象征着浪漫与爱情，能够帮助你遇见真爱。</meaning>
+                    <motivation>愿它的柔和能量带给你温暖的爱情，点亮你心中的柔情。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="健康长寿">
+                <stone>
+                    <name>绿松石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，绿松石能够增强你的身体健康，帮助你保持活力与长寿。</meaning>
+                    <motivation>愿它的自然能量为你带来强大的健康能量，让你保持年轻与活力。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="职业成功">
+                <stone>
+                    <name>紫水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，紫水晶能够增强你在职场上的专注力与决策力，帮助你获得事业上的成功。</meaning>
+                    <motivation>愿它的高贵能量助你在职场中取得辉煌成就，迈向人生的新高峰。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="家庭和睦">
+                <stone>
+                    <name>月光石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，月光石能够促进家庭成员之间的理解与和谐，增强家庭的亲密感。</meaning>
+                    <motivation>愿它的柔和光芒带给你的家庭温暖与幸福，使家成为你最温馨的避风港。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="内心平静">
+                <stone>
+                    <name>碧玺</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，碧玺能够带来内心的宁静与放松，帮助你在繁忙的生活中保持冷静。</meaning>
+                    <motivation>愿它的能量帮助你排解压力，保持内心的平和与清晰。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="创意灵感">
+                <stone>
+                    <name>蓝宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，蓝宝石能够激发你的创意与灵感，带给你独特的想法和创造力。</meaning>
+                    <motivation>愿它的清新能量激发你内心的创意火花，帮助你在艺术或工作中创作出非凡的作品。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="友情长存">
+                <stone>
+                    <name>珍珠</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，珍珠象征着深厚的友情和真诚的关系，能够促进与朋友之间的联系和信任。</meaning>
+                    <motivation>愿它的纯净能量帮助你维持长久、真挚的友情，让你在这段关系中感受到无尽的支持与温暖。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="自信提升">
+                <stone>
+                    <name>红宝石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，红宝石能够增强你的自信心和动力，帮助你迎接生活中的各种挑战。</meaning>
+                    <motivation>愿它的热情能量为你带来坚定的自信心，帮助你毫不畏惧地迎接每一次挑战。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="冒险精神">
+                <stone>
+                    <name>黄水晶</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，黄水晶象征着勇气与冒险，能够鼓励你跳出舒适区，迎接新的挑战。</meaning>
+                    <motivation>愿它的光芒激发你内心的勇气，带你走向未知的冒险，成就更加精彩的未来。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="学业进步">
+                <stone>
+                    <name>青金石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，青金石能够增强记忆力、提高专注力，有助于学业的进步。</meaning>
+                    <motivation>愿它的能量帮助你在学业中有所突破，取得更加优异的成绩。</motivation>
+                </stone>
+            </expectation>
+            <expectation id="快乐幸福">
+                <stone>
+                    <name>托帕石</name>
+                    <meaning>这颗名为[{name}]的幸运石专为[{constellation}]的[{userName}]定制，托帕石能够带来幸福与喜悦的能量，帮助你在生活中找到更多的快乐和满足。</meaning>
+                    <motivation>愿它的明亮能量带给你满满的幸福感，让你享受每一天的美好时光。</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+    </template>
+</templates>

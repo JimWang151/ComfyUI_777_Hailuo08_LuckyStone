@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+    <template id="template1">
+        <constellation id="Aries">
+            <expectation id="Wealth_Freedom">
+                <stone>
+                    <name>Fire Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blazing with entrepreneurial fire, it ignites golden opportunities in unexpected places.</meaning>
+                    <motivation>Like a meteor shower of prosperity, success rains down upon your path.</motivation>
+                </stone>
+                <stone>
+                    <name>Sunstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating solar abundance, it transforms bold ventures into magnificent rewards.</meaning>
+                    <motivation>As the rising sun claims the dawn, wealth rises in your empire.</motivation>
+                </stone>
+                <stone>
+                    <name>Red Garnet</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with passionate ambition, it fuels your drive for financial conquest.</meaning>
+                    <motivation>Like volcanic gems emerging from earth's core, riches manifest through your determination.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="True_Love">
+                <stone>
+                    <name>Ruby</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with passionate heartbeats, it attracts love as fierce as wildfire.</meaning>
+                    <motivation>Like the first spark of dawn, true love ignites your world.</motivation>
+                </stone>
+                <stone>
+                    <name>Red Aventurine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Kindling romantic courage, it empowers you to chase love boldly.</meaning>
+                    <motivation>As flames dance in twilight, passion leads to destiny.</motivation>
+                </stone>
+                <stone>
+                    <name>Fire Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning through hesitation, it reveals the path to passionate connection.</meaning>
+                    <motivation>Like embers glowing in darkness, love's warmth finds your heart.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Health_Longevity">
+                <stone>
+                    <name>Red Jasper</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Grounding primal energy, it fortifies your vital force with warrior's strength.</meaning>
+                    <motivation>Like an eternal flame of vitality, health flows through your being.</motivation>
+                </stone>
+                <stone>
+                    <name>Carnelian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Channeling life's fire, it energizes body and spirit with dynamic wellness.</meaning>
+                    <motivation>As the sun nourishes all life, vibrant health becomes your nature.</motivation>
+                </stone>
+                <stone>
+                    <name>Red Tiger's Eye</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Merging strength with balance, it maintains your energetic harmony.</meaning>
+                    <motivation>Like a warrior's disciplined power, vitality serves your will.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Career_Success">
+                <stone>
+                    <name>Red Garnet</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Igniting leadership potential, it propels you to the forefront of success.</meaning>
+                    <motivation>Like a blazing comet, your career soars to new heights.</motivation>
+                </stone>
+                <stone>
+                    <name>Ruby</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Commanding respect through presence, it crowns you with professional glory.</meaning>
+                    <motivation>As the sun rules the sky, excellence defines your work.</motivation>
+                </stone>
+                <stone>
+                    <name>Pyrite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparking golden opportunities, it turns bold initiatives into brilliant achievements.</meaning>
+                    <motivation>Like sparks becoming stars, ambition leads to triumph.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Family_Harmony">
+                <stone>
+                    <name>Rose Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating hearth's warmth, it nurtures family bonds with fierce devotion.</meaning>
+                    <motivation>Like a sacred flame uniting hearts, love strengthens family ties.</motivation>
+                </stone>
+                <stone>
+                    <name>Fire Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with passionate care, it ignites deep family connections.</meaning>
+                    <motivation>As embers glow in the hearth, family bonds grow stronger.</motivation>
+                </stone>
+                <stone>
+                    <name>Red Jasper</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Grounding with protective strength, it creates a fortress of family love.</meaning>
+                    <motivation>Like a warrior guarding precious treasures, it shields your family's harmony.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Inner_Peace">
+                <stone>
+                    <name>Red Aventurine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Balancing fiery spirit, it transforms passion into inner peace.</meaning>
+                    <motivation>Like flames settling into steady warmth, tranquility emerges from strength.</motivation>
+                </stone>
+                <stone>
+                    <name>Fire Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Centering with flame's focus, it brings clarity through dynamic stillness.</meaning>
+                    <motivation>As fire finds its perfect dance, your spirit finds its center.</motivation>
+                </stone>
+                <stone>
+                    <name>Sunstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating solar serenity, it warms the soul with gentle power.</meaning>
+                    <motivation>Like sunset painting peace across the sky, calm flows through your being.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Creative_Inspiration">
+                <stone>
+                    <name>Fire Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparking creative flames, it ignites brilliant inspirations.</meaning>
+                    <motivation>Like a phoenix rising from ashes, creativity soars to new heights.</motivation>
+                </stone>
+                <stone>
+                    <name>Carnelian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with artistic passion, it fuels innovative breakthroughs.</meaning>
+                    <motivation>As fire dances with new forms, imagination knows no bounds.</motivation>
+                </stone>
+                <stone>
+                    <name>Red Garnet</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Kindling creative courage, it transforms bold ideas into reality.</meaning>
+                    <motivation>Like sparks igniting masterpieces, your creativity blazes forth.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Lasting_Friendship">
+                <stone>
+                    <name>Blue Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with sky's blessing, it nurtures true friendship.</meaning>
+                    <motivation>Like bridges built of starlight, it connects hearts across any distance.</motivation>
+                </stone>
+                <stone>
+                    <name>Amazonite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by forest wisdom, it deepens loyal bonds.</meaning>
+                    <motivation>As if sharing secrets with ancient trees, your friendships grow strong roots.</motivation>
+                </stone>
+                <stone>
+                    <name>Turquoise</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with desert winds, it protects precious connections.</meaning>
+                    <motivation>Like an oasis in life's journey, it keeps friendship's waters sweet and pure.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Confidence_Boost">
+                <stone>
+                    <name>Sunstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blazing with inner fire, it awakens your true power.</meaning>
+                    <motivation>Like a phoenix spreading golden wings, you rise with unstoppable confidence.</motivation>
+                </stone>
+                <stone>
+                    <name>Carnelian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with warrior's courage, it ignites your spirit.</meaning>
+                    <motivation>As if carrying a sacred flame, you light up every path you choose.</motivation>
+                </stone>
+                <stone>
+                    <name>Tiger's Eye</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Gleaming with royal grace, it reveals your inner majesty.</meaning>
+                    <motivation>Like a tiger claiming its throne, you move through life with natural authority.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Adventurine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Whispering tales of distant lands, it calls to your adventurous heart.</meaning>
+                    <motivation>Like an ancient map unfolding, it guides you to magnificent discoveries.</motivation>
+                </stone>
+                <stone>
+                    <name>Bronzite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Forged in hero's fire, it strengthens your daring spirit.</meaning>
+                    <motivation>As if wearing armor of legends, you face each challenge with fearless grace.</motivation>
+                </stone>
+                <stone>
+                    <name>Fire Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with flame spirits, it ignites your wanderlust.</meaning>
+                    <motivation>Like a shooting star across night sky, you blaze new trails of wonder.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Fluorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with rainbow wisdom, it illuminates knowledge paths.</meaning>
+                    <motivation>Like ancient scrolls revealing their secrets, understanding flows naturally to you.</motivation>
+                </stone>
+                <stone>
+                    <name>Sodalite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by scholar's stars, it awakens mental clarity.</meaning>
+                    <motivation>As if granted Athena's wisdom, complex ideas become crystal clear.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Apatite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with curiosity's light, it deepens learning joy.</meaning>
+                    <motivation>Like morning dew on library steps, it refreshes your thirst for knowledge.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Citrine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with sunbeams, it sprinkles joy like stardust.</meaning>
+                    <motivation>Like a garden in eternal spring, happiness blooms endlessly in your heart.</motivation>
+                </stone>
+                <stone>
+                    <name>Peach Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with gentle dreams, it weaves spells of contentment.</meaning>
+                    <motivation>As if blessed by fairy whispers, each moment brings unexpected delight.</motivation>
+                </stone>
+                <stone>
+                    <name>Orange Calcite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating summer's warmth, it brightens every shadow.</meaning>
+                    <motivation>Like butterflies dancing in morning light, joy becomes your natural state.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+        <constellation id="Taurus">
+            <expectation id="Wealth_Freedom">
+                <stone>
+                    <name>Emerald</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with forest secrets, it whispers ancient wealth wisdom.</meaning>
+                    <motivation>Like a magical garden blooming with golden flowers, it grows your fortune naturally and steadily.</motivation>
+                </stone>
+                <stone>
+                    <name>Green Jade</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by imperial dragons, it guards your prosperity path.</meaning>
+                    <motivation>As if holding an emperor's seal, abundance flows to you with grace and dignity.</motivation>
+                </stone>
+                <stone>
+                    <name>Malachite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Swirling with earth's richness, it multiplies your wealth energy.</meaning>
+                    <motivation>Like a wise merchant of old, it guides your steps to lasting prosperity.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="True_Love">
+                <stone>
+                    <name>Pink Kunzite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with dawn's first blush, it awakens heart's desires.</meaning>
+                    <motivation>Like love letters carried on spring breeze, it brings romance into your life.</motivation>
+                </stone>
+                <stone>
+                    <name>Ruby</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with passion's flame, it ignites destined connections.</meaning>
+                    <motivation>As if touched by Cupid's arrow, your heart opens to deep and lasting love.</motivation>
+                </stone>
+                <stone>
+                    <name>Pink Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with heart's melody, it attracts soul-deep love.</meaning>
+                    <motivation>Like a fairy tale coming true, it weaves magic into your love story.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Health_Longevity">
+                <stone>
+                    <name>Moss Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Breathing with forest vitality, it renews your life force.</meaning>
+                    <motivation>Like ancient trees drawing strength from deep roots, you grow more vital each day.</motivation>
+                </stone>
+                <stone>
+                    <name>Serpentine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with life's river, it maintains perfect balance.</meaning>
+                    <motivation>As if drinking from the fountain of youth, your spirit stays forever young.</motivation>
+                </stone>
+                <stone>
+                    <name>Chrysoprase</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with nature's rhythm, it harmonizes body and soul.</meaning>
+                    <motivation>Like spring rain nourishing tender shoots, it keeps you blooming with health.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Career_Success">
+                <stone>
+                    <name>Green Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with ambition's light, it opens doors to success.</meaning>
+                    <motivation>Like a master key to fortune's gates, it unlocks your greatest potential.</motivation>
+                </stone>
+                <stone>
+                    <name>Garnet</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with warrior's spirit, it fuels your determination.</meaning>
+                    <motivation>As if carrying a torch of victory, you light the path for others to follow.</motivation>
+                </stone>
+                <stone>
+                    <name>Smoky Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Anchored in earth's wisdom, it builds lasting success.</meaning>
+                    <motivation>Like a mountain reaching skyward, your achievements stand the test of time.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Family_Harmony">
+                <stone>
+                    <name>Peach Aventurine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating hearth's warmth, it nurtures family bonds.</meaning>
+                    <motivation>Like a cozy fire on winter nights, it draws loved ones close in harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Pearl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with moonlit wisdom, it protects domestic peace.</meaning>
+                    <motivation>As if blessed by guardian spirits, your home becomes a sanctuary of love.</motivation>
+                </stone>
+                <stone>
+                    <name>Rhodonite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with heart's rhythm, it weaves family unity.</meaning>
+                    <motivation>Like threads in a tapestry of love, it binds your family closer each day.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Inner_Peace">
+                <stone>
+                    <name>Blue Chalcedony</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Whispering ocean secrets, it calms troubled waters.</meaning>
+                    <motivation>Like waves gently kissing the shore, it washes away all your worries.</motivation>
+                </stone>
+                <stone>
+                    <name>Celestite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by starlight dreams, it brings heavenly peace.</meaning>
+                    <motivation>As if floating among clouds at sunset, your mind finds perfect tranquility.</motivation>
+                </stone>
+                <stone>
+                    <name>Angelite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Touched by angel wings, it gifts divine serenity.</meaning>
+                    <motivation>Like morning mist in sacred gardens, it wraps your spirit in gentle peace.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Creative_Inspiration">
+                <stone>
+                    <name>Apatite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with rainbow light, it sparks creative fire.</meaning>
+                    <motivation>Like a butterfly emerging from its chrysalis, your ideas take beautiful flight.</motivation>
+                </stone>
+                <stone>
+                    <name>Iolite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with twilight magic, it opens vision gates.</meaning>
+                    <motivation>As if seeing through fairy eyes, the world becomes your canvas of possibilities.</motivation>
+                </stone>
+                <stone>
+                    <name>Tanzanite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with mystic wisdom, it awakens artistic soul.</meaning>
+                    <motivation>Like stardust scattered on midnight waters, it transforms thoughts into beauty.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Lasting_Friendship">
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with ocean's loyalty, it deepens friendship bonds.</meaning>
+                    <motivation>Like mermaids sharing secrets, it creates unbreakable connections.</motivation>
+                </stone>
+                <stone>
+                    <name>Larimar</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by Caribbean waves, it brings joyful companionship.</meaning>
+                    <motivation>As if dancing on sun-kissed beaches, friendship becomes a celebration.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with sky's promise, it nurtures true friendship.</meaning>
+                    <motivation>Like stars sharing the night sky, your friendships shine eternally bright.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Confidence_Boost">
+                <stone>
+                    <name>Sunstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating golden confidence, it awakens inner power.</meaning>
+                    <motivation>Like a phoenix spreading its wings, you rise with majestic grace.</motivation>
+                </stone>
+                <stone>
+                    <name>Carnelian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with sacred fire, it ignites self-belief.</meaning>
+                    <motivation>As if crowned by the sun itself, you shine with natural authority.</motivation>
+                </stone>
+                <stone>
+                    <name>Golden Tiger's Eye</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Gleaming with royal strength, it reveals your true worth.</meaning>
+                    <motivation>Like a lion claiming its kingdom, you walk with noble confidence.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Adventurine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Singing with wanderlust's melody, it calls to brave hearts.</meaning>
+                    <motivation>Like an ancient explorer's compass, it points to magnificent adventures.</motivation>
+                </stone>
+                <stone>
+                    <name>Bronzite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Forged in hero's fire, it strengthens your daring spirit.</meaning>
+                    <motivation>As if wearing armor of legends, you face each challenge with fearless grace.</motivation>
+                </stone>
+                <stone>
+                    <name>Fire Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with dragon's flame, it ignites bold dreams.</meaning>
+                    <motivation>Like a shooting star across night sky, you blaze trails of wonder.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Fluorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by wisdom's light, it illuminates knowledge paths.</meaning>
+                    <motivation>Like an ancient scroll unfolding, it reveals secrets of understanding.</motivation>
+                </stone>
+                <stone>
+                    <name>Sodalite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with scholar's insight, it deepens learning joy.</meaning>
+                    <motivation>As if guided by sage masters, wisdom becomes your natural companion.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Apatite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with curiosity's fire, it opens mind's gates.</meaning>
+                    <motivation>Like morning dew on library steps, it refreshes your thirst for knowledge.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Citrine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with sunbeams, it sprinkles joy like stardust.</meaning>
+                    <motivation>Like a garden in eternal spring, happiness blooms in your heart.</motivation>
+                </stone>
+                <stone>
+                    <name>Peach Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with gentle dreams, it weaves happiness spells.</meaning>
+                    <motivation>As if blessed by fairy whispers, each day brings new delights.</motivation>
+                </stone>
+                <stone>
+                    <name>Orange Calcite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating summer's warmth, it brightens every moment.</meaning>
+                    <motivation>Like butterflies dancing in morning light, joy becomes your natural state.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+        <constellation id="Gemini">
+            <expectation id="Wealth_Freedom">
+                <stone>
+                    <name>Citrine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with golden light, it whispers ancient secrets of abundance.</meaning>
+                    <motivation>Like a magical merchant from distant lands, it transforms your clever ideas into streams of gold.</motivation>
+                </stone>
+                <stone>
+                    <name>Yellow Apatite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with the warmth of summer sun, it teaches the art of wealth creation.</meaning>
+                    <motivation>As if blessed by Midas himself, everything you touch begins to flourish and grow.</motivation>
+                </stone>
+                <stone>
+                    <name>Pyrite Cluster</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering like a dragon's treasure, it awakens your inner abundance.</meaning>
+                    <motivation>Like finding a map to hidden riches, it reveals the path to prosperity that was always meant for you.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="True_Love">
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blushing with the first light of dawn, it carries whispers of destined love.</meaning>
+                    <motivation>Like cherry blossoms in spring wind, it scatters seeds of romance in your path.</motivation>
+                </stone>
+                <stone>
+                    <name>Kunzite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with ethereal pink light, it weaves threads of destiny.</meaning>
+                    <motivation>As if Cupid himself blessed this stone, it draws your soulmate closer with each passing day.</motivation>
+                </stone>
+                <stone>
+                    <name>Pink Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with the joy of first love, it dances with romantic energy.</meaning>
+                    <motivation>Like a love letter carried on rose-scented breeze, it brings the magic of true love into your life.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Health_Longevity">
+                <stone>
+                    <name>Green Fluorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with nature's rhythm, it sings songs of vitality.</meaning>
+                    <motivation>Like drinking morning dew from ancient forest leaves, it fills you with pure life force.</motivation>
+                </stone>
+                <stone>
+                    <name>Serpentine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Coiled with primordial wisdom, it guards your wellbeing.</meaning>
+                    <motivation>As if blessed by the eternal dragon of life, your vitality grows stronger each day.</motivation>
+                </stone>
+                <stone>
+                    <name>Tree Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Whispering secrets of ancient forests, it nurtures your life force.</meaning>
+                    <motivation>Like a sacred tree growing in paradise, it grants you the gift of enduring health.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Career_Success">
+                <stone>
+                    <name>Falcon's Eye</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Soaring high above mundane concerns, it grants eagle-eye vision.</meaning>
+                    <motivation>Like a master strategist in an ancient court, it reveals the perfect moment to make your move.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Kyanite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Gleaming with royal wisdom, it amplifies your leadership aura.</meaning>
+                    <motivation>As if touched by the hand of destiny, you rise naturally to positions of influence and respect.</motivation>
+                </stone>
+                <stone>
+                    <name>Golden Beryl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating solar confidence, it illuminates your path to greatness.</meaning>
+                    <motivation>Like a star guiding ancient kings, it leads you to your rightful place of success.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Family_Harmony">
+                <stone>
+                    <name>Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with gentle lunar magic, it weaves bonds of love.</meaning>
+                    <motivation>Like the moon blessing a peaceful lake, it bathes your home in serene harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Pink Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with dawn's first blush, it nurtures tender hearts.</meaning>
+                    <motivation>As if wrapping your family in a blanket of rose petals, it creates a haven of understanding and joy.</motivation>
+                </stone>
+                <stone>
+                    <name>Rhodochrosite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with emotional depth, it draws soul-deep connections.</meaning>
+                    <motivation>Like tides guided by the moon, it brings your true love closer each day.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Inner_Peace">
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing like a serene mountain stream, it carries away your worries.</meaning>
+                    <motivation>Like the first peaceful breath of dawn, it brings the gift of tranquil clarity.</motivation>
+                </stone>
+                <stone>
+                    <name>Lepidolite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with twilight peace, it calms the dancing mind.</meaning>
+                    <motivation>As if floating in a cloud of lavender dreams, your spirit finds its center of calm.</motivation>
+                </stone>
+                <stone>
+                    <name>Angelite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by celestial whispers, it brings heavenly peace.</meaning>
+                    <motivation>Like an angel's lullaby, it wraps your soul in wings of serenity.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Creative_Inspiration">
+                <stone>
+                    <name>Labradorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with aurora lights, it awakens magical creativity.</meaning>
+                    <motivation>Like a window to fairy realms, it shows you wonders beyond imagination.</motivation>
+                </stone>
+                <stone>
+                    <name>Aqua Aura</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with mermaid's tears, it unlocks artistic dreams.</meaning>
+                    <motivation>As if diving into an ocean of possibilities, each wave brings new inspiration.</motivation>
+                </stone>
+                <stone>
+                    <name>Chrysocolla</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Painted with earth's oldest colors, it whispers creative secrets.</meaning>
+                    <motivation>Like a rainbow after storm, it transforms thoughts into beautiful reality.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Lasting_Friendship">
+                <stone>
+                    <name>Blue Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling like summer skies, it attracts kindred spirits.</meaning>
+                    <motivation>Like a bridge made of starlight, it connects hearts across any distance.</motivation>
+                </stone>
+                <stone>
+                    <name>Amazonite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with forest wisdom, it nurtures true friendship.</meaning>
+                    <motivation>As if sharing secrets with ancient trees, it helps friendships grow deep roots.</motivation>
+                </stone>
+                <stone>
+                    <name>Turquoise</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by desert winds, it protects sacred bonds.</meaning>
+                    <motivation>Like an oasis in life's journey, it keeps friendship's waters sweet and pure.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Confidence_Boost">
+                <stone>
+                    <name>Sunstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blazing with inner fire, it awakens your true power.</meaning>
+                    <motivation>Like the sun breaking through storm clouds, it reveals your radiant strength.</motivation>
+                </stone>
+                <stone>
+                    <name>Carnelian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with warrior's courage, it ignites your spirit.</meaning>
+                    <motivation>As if carrying an eternal flame, you light up every room you enter.</motivation>
+                </stone>
+                <stone>
+                    <name>Tiger's Eye</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Gleaming with feline grace, it awakens your inner royalty.</meaning>
+                    <motivation>Like a tiger claiming its territory, you move through life with natural confidence.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Adventurine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Whispering tales of distant lands, it calls to your wandering heart.</meaning>
+                    <motivation>Like an ancient map unfolding, it reveals paths to wonderful discoveries.</motivation>
+                </stone>
+                <stone>
+                    <name>Bronzite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Forged in adventure's fire, it strengthens your daring spirit.</meaning>
+                    <motivation>As if wearing a cloak of invincibility, you embrace life's greatest challenges.</motivation>
+                </stone>
+                <stone>
+                    <name>Fire Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with flame spirits, it ignites your adventurous soul.</meaning>
+                    <motivation>Like a phoenix rising from ashes, it transforms fear into exciting possibilities.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Fluorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with rainbow wisdom, it opens minds to knowledge.</meaning>
+                    <motivation>Like a key to ancient libraries, it unlocks the secrets of learning.</motivation>
+                </stone>
+                <stone>
+                    <name>Sodalite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by scholar's stars, it deepens understanding.</meaning>
+                    <motivation>As if granted the gift of Athena, wisdom flows naturally into your mind.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Apatite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with curiosity's light, it awakens the joy of learning.</meaning>
+                    <motivation>Like a torch in wisdom's cave, it illuminates paths to knowledge.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Citrine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Bubbling with golden laughter, it spreads pure joy.</meaning>
+                    <motivation>Like sunbeams dancing through leaves, it fills each moment with delight.</motivation>
+                </stone>
+                <stone>
+                    <name>Peach Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with gentle dreams, it weaves happiness spells.</meaning>
+                    <motivation>As if blessed by fairy whispers, each day brings new delights.</motivation>
+                </stone>
+                <stone>
+                    <name>Orange Calcite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating summer's warmth, it brightens every moment.</meaning>
+                    <motivation>Like butterflies dancing in morning light, joy becomes your natural state.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+        <constellation id="Cancer">
+            <expectation id="Wealth_Freedom">
+                <stone>
+                    <name>Pearl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Born from ocean's depths, it carries treasures of abundance.</meaning>
+                    <motivation>Like waves bringing precious gifts to shore, prosperity flows naturally into your life.</motivation>
+                </stone>
+                <stone>
+                    <name>Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by lunar wisdom, it guides financial intuition.</meaning>
+                    <motivation>As if touched by moonlight on still waters, your wealth grows with natural grace.</motivation>
+                </stone>
+                <stone>
+                    <name>Silver Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with celestial light, it attracts abundant fortune.</meaning>
+                    <motivation>Like starlight blessing silver coins, it transforms opportunities into lasting wealth.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="True_Love">
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with mother ocean's love, it nurtures heart connections.</meaning>
+                    <motivation>Like gentle waves cradling pearls, it brings tender love into your embrace.</motivation>
+                </stone>
+                <stone>
+                    <name>Pink Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with dawn's tenderness, it awakens pure romance.</meaning>
+                    <motivation>As if kissed by morning's first light, your heart opens to destined love.</motivation>
+                </stone>
+                <stone>
+                    <name>Rhodochrosite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with emotional depth, it draws soul-deep connections.</meaning>
+                    <motivation>Like tides guided by the moon, it brings your true love closer each day.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Health_Longevity">
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with ocean's vitality, it refreshes life energy.</meaning>
+                    <motivation>Like diving into crystal clear waters, it rejuvenates your entire being.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by healing waters, it maintains perfect balance.</meaning>
+                    <motivation>As if floating in a sacred spring, your body finds natural harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Chalcedony</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Whispering secrets of longevity, it nurtures wellbeing.</meaning>
+                    <motivation>Like waves washing eternal shores, it keeps your vitality ever-flowing.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Career_Success">
+                <stone>
+                    <name>White Howlite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Gleaming with pearl's wisdom, it guides career paths.</meaning>
+                    <motivation>Like a lighthouse showing safe harbor, it leads you to professional triumph.</motivation>
+                </stone>
+                <stone>
+                    <name>Selenite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shining with lunar clarity, it illuminates opportunities.</meaning>
+                    <motivation>As if blessed by the moon herself, you navigate success with intuitive grace.</motivation>
+                </stone>
+                <stone>
+                    <name>White Jade</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating pure potential, it manifests achievements.</meaning>
+                    <motivation>Like morning mist parting to reveal golden shores, your path to success becomes clear.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Family_Harmony">
+                <stone>
+                    <name>Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by maternal love, it nurtures family bonds.</meaning>
+                    <motivation>Like moonlight blessing a peaceful home, it wraps your family in gentle harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Pearl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Growing with layers of care, it strengthens emotional ties.</meaning>
+                    <motivation>As if creating a precious pearl, your family bonds grow more beautiful with time.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Calcite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with nurturing energy, it creates domestic bliss.</meaning>
+                    <motivation>Like gentle waves rocking a cradle, it soothes your home with perfect peace.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Inner_Peace">
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Singing ocean lullabies, it calms emotional tides.</meaning>
+                    <motivation>Like moonlight on gentle waves, it brings deep tranquility to your soul.</motivation>
+                </stone>
+                <stone>
+                    <name>Larimar</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with Caribbean peace, it soothes worried hearts.</meaning>
+                    <motivation>As if floating in tropical waters, your spirit finds perfect serenity.</motivation>
+                </stone>
+                <stone>
+                    <name>Celestite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with heavenly calm, it brings emotional balance.</meaning>
+                    <motivation>Like starlight reflected on still waters, it fills you with quiet peace.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Creative_Inspiration">
+                <stone>
+                    <name>Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with ocean's dreams, it awakens artistic vision.</meaning>
+                    <motivation>Like light dancing through ocean spray, it reveals rainbow inspirations.</motivation>
+                </stone>
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with mermaid's songs, it unlocks imagination.</meaning>
+                    <motivation>As if diving into inspiration's depths, each moment brings creative treasures.</motivation>
+                </stone>
+                <stone>
+                    <name>Pearl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Growing with nature's artistry, it nurtures creative gifts.</meaning>
+                    <motivation>Like waves crafting perfect shells, it shapes your ideas into beauty.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Lasting_Friendship">
+                <stone>
+                    <name>Blue Chalcedony</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with friendship's tide, it deepens loyal bonds.</meaning>
+                    <motivation>Like rivers joining the sea, your friendships grow ever stronger.</motivation>
+                </stone>
+                <stone>
+                    <name>Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by lunar harmony, it nurtures true connections.</meaning>
+                    <motivation>As if sharing moonlight's secrets, your friendships shine with timeless beauty.</motivation>
+                </stone>
+                <stone>
+                    <name>Pearl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Growing with shared memories, it protects precious bonds.</meaning>
+                    <motivation>Like treasures kept safe in ocean depths, your friendships remain forever precious.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Confidence_Boost">
+                <stone>
+                    <name>White Coral</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Standing strong in life's currents, it builds inner strength.</meaning>
+                    <motivation>Like coral reefs rising from the deep, your confidence grows naturally magnificent.</motivation>
+                </stone>
+                <stone>
+                    <name>Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with quiet power, it reveals inner beauty.</meaning>
+                    <motivation>As if crowned by moonlight, you shine with natural grace and authority.</motivation>
+                </stone>
+                <stone>
+                    <name>Pearl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating timeless elegance, it awakens self-worth.</meaning>
+                    <motivation>Like a perfect pearl emerging from its shell, your true beauty touches all hearts.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with ocean winds, it calls to exploring hearts.</meaning>
+                    <motivation>Like waves reaching distant shores, you embrace life's grand adventures.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Apatite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with sea spray, it awakens wanderlust.</meaning>
+                    <motivation>As if sailing uncharted waters, each day brings exciting discoveries.</motivation>
+                </stone>
+                <stone>
+                    <name>Larimar</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by Caribbean freedom, it ignites exploration.</meaning>
+                    <motivation>Like dolphins playing in open seas, you dance with life's possibilities.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Blue Calcite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with wisdom's currents, it deepens understanding.</meaning>
+                    <motivation>Like tides bringing ancient knowledge to shore, learning becomes natural joy.</motivation>
+                </stone>
+                <stone>
+                    <name>Pearl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Growing with patient wisdom, it nurtures knowledge.</meaning>
+                    <motivation>As if gathering pearls of wisdom, your mind grows rich with understanding.</motivation>
+                </stone>
+                <stone>
+                    <name>Selenite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with lunar wisdom, it illuminates learning paths.</meaning>
+                    <motivation>Like moonlight on sacred texts, it reveals deep insights with gentle clarity.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with lunar joy, it brings emotional fulfillment.</meaning>
+                    <motivation>Like moonlight blessing gentle waves, happiness flows naturally through your days.</motivation>
+                </stone>
+                <stone>
+                    <name>Pearl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with inner light, it radiates pure contentment.</meaning>
+                    <motivation>As if blessed by ocean's treasures, each moment shines with quiet joy.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with ocean dreams, it awakens lasting happiness.</meaning>
+                    <motivation>Like playful waves catching sunlight, your heart dances with endless delight.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+        <constellation id="Virgo">
+            <expectation id="Wealth_Freedom">
+                <stone>
+                    <name>Blue Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Gleaming with divine wisdom, it refines wealth strategies.</meaning>
+                    <motivation>Like starlight distilled to pure crystal, your path to abundance becomes perfectly clear.</motivation>
+                </stone>
+                <stone>
+                    <name>Moss Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Growing with nature's precision, it cultivates steady fortune.</meaning>
+                    <motivation>As if tending a sacred garden, your wealth grows through mindful care.</motivation>
+                </stone>
+                <stone>
+                    <name>Clear Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shining with crystal clarity, it purifies abundance channels.</meaning>
+                    <motivation>Like morning light through pristine dew, prosperity flows with perfect timing.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="True_Love">
+                <stone>
+                    <name>White Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating pure devotion, it attracts perfect love.</meaning>
+                    <motivation>Like finding a flawless pearl, your heart recognizes its ideal match.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with gentle wisdom, it nurtures true connection.</meaning>
+                    <motivation>As if guided by heaven's design, love unfolds in perfect harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Clear Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with pristine light, it draws sincere affection.</meaning>
+                    <motivation>Like morning frost turning to diamond drops, your love story crystallizes beautifully.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Health_Longevity">
+                <stone>
+                    <name>Peridot</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with life's essence, it maintains perfect health.</meaning>
+                    <motivation>Like spring leaves reaching for sunlight, vitality flows through every cell.</motivation>
+                </stone>
+                <stone>
+                    <name>Green Fluorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Structured in nature's order, it harmonizes body systems.</meaning>
+                    <motivation>As if tuned by divine hands, your wellbeing achieves perfect balance.</motivation>
+                </stone>
+                <stone>
+                    <name>Clear Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Resonating with pure life force, it optimizes vitality.</meaning>
+                    <motivation>Like crystal springs feeding ancient trees, health flows eternally through you.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Career_Success">
+                <stone>
+                    <name>Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances your leadership abilities and helps you make decisive career moves.</meaning>
+                    <motivation>It supports you in achieving professional goals and maintaining focus during important presentations or negotiations.</motivation>
+                </stone>
+                <stone>
+                    <name>Pietersite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens your adaptability and helps you navigate workplace changes effectively.</meaning>
+                    <motivation>It enables you to turn challenges into opportunities for growth, especially during organizational transitions.</motivation>
+                </stone>
+                <stone>
+                    <name>Hawk's Eye</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It sharpens your business acumen and helps you identify key opportunities.</meaning>
+                    <motivation>It helps you maintain clear vision in professional decisions and excel in competitive environments.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Family_Harmony">
+                <stone>
+                    <name>Lepidolite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It promotes family understanding and helps resolve conflicts peacefully.</meaning>
+                    <motivation>It supports you in maintaining harmony at home while respecting each family member's independence.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances communication within the family and reduces misunderstandings.</meaning>
+                    <motivation>It helps create a supportive home environment where everyone feels heard and valued.</motivation>
+                </stone>
+                <stone>
+                    <name>Chrysocolla</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens family bonds and promotes emotional healing.</meaning>
+                    <motivation>It enables you to maintain family unity while supporting each member's personal growth.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Inner_Peace">
+                <stone>
+                    <name>Celestite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It helps reduce anxiety and promotes mental clarity in stressful situations.</meaning>
+                    <motivation>It supports you in maintaining emotional balance, especially during important decision-making moments.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Calcite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It calms racing thoughts and helps you stay centered during busy times.</meaning>
+                    <motivation>It enables you to maintain inner peace while managing multiple responsibilities and deadlines.</motivation>
+                </stone>
+                <stone>
+                    <name>Angelite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It promotes peaceful sleep and helps reduce stress-related tension.</meaning>
+                    <motivation>It supports you in maintaining emotional stability during periods of change or uncertainty.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Creative_Inspiration">
+                <stone>
+                    <name>Blue Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparking divine inspiration, it refines creative vision.</meaning>
+                    <motivation>Like an artist finding perfect expression, your ideas manifest beautifully.</motivation>
+                </stone>
+                <stone>
+                    <name>Clear Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Focusing creative light, it crystallizes pure ideas.</meaning>
+                    <motivation>As if viewing through heaven's lens, inspiration comes with perfect clarity.</motivation>
+                </stone>
+                <stone>
+                    <name>Amazonite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Harmonizing with nature's art, it awakens precise beauty.</meaning>
+                    <motivation>Like frost painting perfect patterns, your creativity flows with divine grace.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Lasting_Friendship">
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Weaving gentle bonds, it nurtures true friendship.</meaning>
+                    <motivation>Like morning dew connecting spider silk, your connections grow perfectly strong.</motivation>
+                </stone>
+                <stone>
+                    <name>Clear Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating pure truth, it attracts sincere friends.</meaning>
+                    <motivation>As if blessed by angels of friendship, your bonds shine with crystal clarity.</motivation>
+                </stone>
+                <stone>
+                    <name>Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with gentle wisdom, it deepens understanding.</meaning>
+                    <motivation>Like starlight connecting kindred souls, your friendships align in harmony.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Confidence_Boost">
+                <stone>
+                    <name>Blue Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Crowned with divine wisdom, it awakens true worth.</meaning>
+                    <motivation>Like a masterpiece perfectly realized, you shine with natural confidence.</motivation>
+                </stone>
+                <stone>
+                    <name>Clear Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Focusing inner light, it reveals pure potential.</meaning>
+                    <motivation>As if seeing your reflection in crystal pools, you recognize your perfect self.</motivation>
+                </stone>
+                <stone>
+                    <name>Amazonite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Resonating with natural grace, it builds quiet strength.</meaning>
+                    <motivation>Like a flower knowing its perfect bloom, you unfold with divine confidence.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Blue Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Guiding with divine wisdom, it illuminates perfect paths.</meaning>
+                    <motivation>Like a compass finding true north, you navigate life's adventures precisely.</motivation>
+                </stone>
+                <stone>
+                    <name>Clear Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Focusing explorer's vision, it reveals ideal routes.</meaning>
+                    <motivation>As if reading a crystal map, each step of your journey unfolds clearly.</motivation>
+                </stone>
+                <stone>
+                    <name>Amazonite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Harmonizing with nature's rhythm, it guides bold moves.</meaning>
+                    <motivation>Like a bird finding perfect thermals, you soar to new heights gracefully.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Blue Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Resonating with divine knowledge, it enhances learning.</meaning>
+                    <motivation>Like a scholar finding perfect wisdom, understanding comes naturally to you.</motivation>
+                </stone>
+                <stone>
+                    <name>Clear Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Focusing mental light, it clarifies complex concepts.</meaning>
+                    <motivation>As if reading from crystal tablets, knowledge flows perfectly into mind.</motivation>
+                </stone>
+                <stone>
+                    <name>Fluorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Structured with perfect order, it organizes thoughts.</meaning>
+                    <motivation>Like sorting precious gems, your mind arranges knowledge beautifully.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Blue Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with divine joy, it brings perfect happiness.</meaning>
+                    <motivation>Like finding heaven's smile, pure contentment fills your days.</motivation>
+                </stone>
+                <stone>
+                    <name>Clear Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating crystal light, it purifies emotions.</meaning>
+                    <motivation>As if blessed by morning's first light, joy flows through you perfectly.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with gentle bliss, it brings serene happiness.</meaning>
+                    <motivation>Like dewdrops catching sunrise, each moment sparkles with pure joy.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+        <constellation id="Leo">
+            <expectation id="Wealth_Freedom">
+                <stone>
+                    <name>Diamond</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blazing with royal brilliance, it commands infinite abundance.</meaning>
+                    <motivation>Like the sun claiming its golden throne, wealth naturally flows to your majestic presence.</motivation>
+                </stone>
+                <stone>
+                    <name>Imperial Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Crowned with solar fire, it attracts royal fortune.</meaning>
+                    <motivation>As if blessed by Midas' own scepter, everything you touch turns to magnificent gold.</motivation>
+                </stone>
+                <stone>
+                    <name>Ruby</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with dragon's heart fire, it ignites prosperity flames.</meaning>
+                    <motivation>Like a phoenix rising in golden glory, your wealth soars to legendary heights.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="True_Love">
+                <stone>
+                    <name>Ruby</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with passionate fire, it awakens legendary love.</meaning>
+                    <motivation>Like the sun kissing horizon at dawn, your heart finds its perfect match.</motivation>
+                </stone>
+                <stone>
+                    <name>Fire Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with flame spirits, it ignites soul connections.</meaning>
+                    <motivation>As if touched by love's eternal flame, your romance blazes with magical intensity.</motivation>
+                </stone>
+                <stone>
+                    <name>Imperial Garnet</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with royal passion, it draws destined love.</meaning>
+                    <motivation>Like stars aligning in perfect harmony, your love story unfolds with majestic grace.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Health_Longevity">
+                <stone>
+                    <name>Sunstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating vital sunlight, it renews life force.</meaning>
+                    <motivation>Like drinking pure sunbeams, vitality flows eternal through your being.</motivation>
+                </stone>
+                <stone>
+                    <name>Red Jasper</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with warrior's strength, it guards your wellbeing.</meaning>
+                    <motivation>As if blessed by ancient healing flames, your health shines with powerful radiance.</motivation>
+                </stone>
+                <stone>
+                    <name>Golden Heliodor</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by solar angels, it maintains perfect vitality.</meaning>
+                    <motivation>Like an eternal summer's day, your life force blooms with endless vigor.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Career_Success">
+                <stone>
+                    <name>Diamond</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shining with unbreakable brilliance, it crowns you with success.</meaning>
+                    <motivation>Like a sovereign claiming their destiny, you rise naturally to positions of power.</motivation>
+                </stone>
+                <stone>
+                    <name>Imperial Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blazing with leadership light, it illuminates your path to glory.</meaning>
+                    <motivation>As if holding a golden scepter, you command respect and admiration.</motivation>
+                </stone>
+                <stone>
+                    <name>Ruby</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with royal fire, it fuels your ambitions.</meaning>
+                    <motivation>Like the sun ruling the heavens, you naturally lead others to victory.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Family_Harmony">
+                <stone>
+                    <name>Golden Rutile</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Woven with threads of sunlight, it creates family harmony.</meaning>
+                    <motivation>Like warm sunshine blessing a garden, your home blooms with joy and love.</motivation>
+                </stone>
+                <stone>
+                    <name>Imperial Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with royal warmth, it nurtures loving bonds.</meaning>
+                    <motivation>As if dwelling in a golden palace, your family thrives in majestic harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Amber</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Preserving ancient sunshine, it protects family happiness.</meaning>
+                    <motivation>Like eternal summer afternoons, your home radiates with golden contentment.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Inner_Peace">
+                <stone>
+                    <name>Imperial Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shining with noble serenity, it brings royal peace.</meaning>
+                    <motivation>Like the sun resting on golden clouds, your spirit finds majestic tranquility.</motivation>
+                </stone>
+                <stone>
+                    <name>Golden Calcite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with gentle sunlight, it soothes royal hearts.</meaning>
+                    <motivation>As if basking in eternal sunset, your mind settles into peaceful clarity.</motivation>
+                </stone>
+                <stone>
+                    <name>Amber</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Holding ancient peace, it calms restless spirits.</meaning>
+                    <motivation>Like honey-gold light through leaves, it fills you with sweet serenity.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Creative_Inspiration">
+                <stone>
+                    <name>Fire Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with creative flames, it ignites artistic passion.</meaning>
+                    <motivation>Like a sunrise painting the sky, your imagination creates magnificent beauty.</motivation>
+                </stone>
+                <stone>
+                    <name>Citrine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with solar brilliance, it awakens creative power.</meaning>
+                    <motivation>As if touched by Apollo's golden lyre, inspiration flows like liquid light.</motivation>
+                </stone>
+                <stone>
+                    <name>Sunstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating creative sunshine, it illuminates artistic vision.</meaning>
+                    <motivation>Like rays of dawn touching canvas, your ideas bloom into masterpieces.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Lasting_Friendship">
+                <stone>
+                    <name>Golden Rutile</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Woven with friendship's light, it strengthens loyal bonds.</meaning>
+                    <motivation>Like sunbeams connecting hearts, your friendships shine with lasting warmth.</motivation>
+                </stone>
+                <stone>
+                    <name>Imperial Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with noble truth, it attracts faithful companions.</meaning>
+                    <motivation>As if sharing royal treasures, your friendships grow rich with trust.</motivation>
+                </stone>
+                <stone>
+                    <name>Amber</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Preserving friendship's warmth, it protects precious bonds.</meaning>
+                    <motivation>Like golden memories in sunlight, your connections remain forever bright.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Confidence_Boost">
+                <stone>
+                    <name>Diamond</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blazing with sovereign light, it awakens inner majesty.</meaning>
+                    <motivation>Like a crown of stars upon your brow, you shine with natural authority.</motivation>
+                </stone>
+                <stone>
+                    <name>Ruby</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with royal fire, it ignites leadership presence.</meaning>
+                    <motivation>As if carrying the sun's own flame, you radiate unstoppable confidence.</motivation>
+                </stone>
+                <stone>
+                    <name>Imperial Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Crowned with solar glory, it reveals your true power.</meaning>
+                    <motivation>Like a lion claiming its kingdom, you move through life with magnificent grace.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Fire Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with adventure's flames, it ignites bold dreams.</meaning>
+                    <motivation>Like a comet blazing new paths, you light up unexplored horizons.</motivation>
+                </stone>
+                <stone>
+                    <name>Sunstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating explorer's light, it guides brave hearts.</meaning>
+                    <motivation>As if carrying a torch of destiny, you lead others to magnificent discoveries.</motivation>
+                </stone>
+                <stone>
+                    <name>Golden Beryl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shining with heroic spirit, it awakens legendary courage.</meaning>
+                    <motivation>Like the sun illuminating new worlds, your adventures become epic tales.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Imperial Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with royal wisdom, it illuminates knowledge paths.</meaning>
+                    <motivation>Like sunlight on ancient scrolls, understanding dawns with natural brilliance.</motivation>
+                </stone>
+                <stone>
+                    <name>Golden Beryl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blessed by Apollo's light, it awakens scholarly excellence.</meaning>
+                    <motivation>As if granted divine wisdom, learning becomes a magnificent journey.</motivation>
+                </stone>
+                <stone>
+                    <name>Citrine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with mental clarity, it enhances brilliant thoughts.</meaning>
+                    <motivation>Like rays of dawn touching mind's eye, knowledge flows with solar grace.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Sunstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with pure joy, it radiates endless happiness.</meaning>
+                    <motivation>Like eternal summer sunshine, bliss naturally flows through your days.</motivation>
+                </stone>
+                <stone>
+                    <name>Imperial Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Crowned with golden light, it brings royal contentment.</meaning>
+                    <motivation>As if blessed by the sun itself, your heart overflows with majestic joy.</motivation>
+                </stone>
+                <stone>
+                    <name>Fire Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with vibrant life, it ignites pure delight.</meaning>
+                    <motivation>Like dawn's first golden ray, happiness awakens in your soul each day.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+        <constellation id="Libra">
+            <expectation id="Wealth_Freedom">
+                <stone>
+                    <name>Pink Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with graceful fortune, it balances wealth flows.</meaning>
+                    <motivation>Like rose petals on golden scales, abundance finds perfect equilibrium in your life.</motivation>
+                </stone>
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with gentle prosperity, it harmonizes resources.</meaning>
+                    <motivation>As if guided by Venus herself, wealth flows to you with elegant grace.</motivation>
+                </stone>
+                <stone>
+                    <name>Rhodochrosite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with balanced energy, it attracts measured fortune.</meaning>
+                    <motivation>Like a perfectly composed symphony, prosperity orchestrates beautifully in your path.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="True_Love">
+                <stone>
+                    <name>Rose Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with romantic harmony, it draws balanced love.</meaning>
+                    <motivation>Like dancers in perfect rhythm, your heart finds its destined partner.</motivation>
+                </stone>
+                <stone>
+                    <name>Pink Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating gentle passion, it weaves love's symmetry.</meaning>
+                    <motivation>As if painted by cupid's brush, your love story unfolds in perfect balance.</motivation>
+                </stone>
+                <stone>
+                    <name>Kunzite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with refined affection, it creates harmonious bonds.</meaning>
+                    <motivation>Like petals dancing in spring breeze, romance blooms with graceful timing.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Health_Longevity">
+                <stone>
+                    <name>Green Aventurine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with balanced vitality, it maintains perfect health.</meaning>
+                    <motivation>Like leaves swaying in gentle wind, your wellbeing finds natural harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Jade</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with life's rhythm, it harmonizes body and spirit.</meaning>
+                    <motivation>As if blessed by nature's wisdom, vitality dances through you gracefully.</motivation>
+                </stone>
+                <stone>
+                    <name>Morganite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with gentle strength, it nurtures balanced wellness.</meaning>
+                    <motivation>Like dawn's first blush on still waters, health flows with perfect measure.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Career_Success">
+                <stone>
+                    <name>Pink Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shining with diplomatic wisdom, it guides balanced success.</meaning>
+                    <motivation>Like a skilled mediator finding harmony, you navigate career paths gracefully.</motivation>
+                </stone>
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating gentle authority, it creates professional harmony.</meaning>
+                    <motivation>As if conducting a perfect symphony, you lead others with natural grace.</motivation>
+                </stone>
+                <stone>
+                    <name>Kunzite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with refined power, it balances ambition.</meaning>
+                    <motivation>Like a master artist at work, your success unfolds with elegant precision.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Family_Harmony">
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Weaving threads of harmony, it balances family bonds.</meaning>
+                    <motivation>Like a perfectly tuned harp, your home resonates with sweet harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Pink Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with gentle love, it creates domestic peace.</meaning>
+                    <motivation>As if blessed by evening starlight, your family finds perfect equilibrium.</motivation>
+                </stone>
+                <stone>
+                    <name>Rhodonite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with balanced care, it nurtures loving bonds.</meaning>
+                    <motivation>Like petals arranging themselves in a rose, relationships align beautifully.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Inner_Peace">
+                <stone>
+                    <name>Pink Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with gentle serenity, it balances emotions.</meaning>
+                    <motivation>Like clouds reflecting sunset's grace, your spirit finds perfect peace.</motivation>
+                </stone>
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating harmonious calm, it soothes the soul.</meaning>
+                    <motivation>As if floating in a rose petal bath, tranquility embraces you completely.</motivation>
+                </stone>
+                <stone>
+                    <name>Kunzite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with balanced wisdom, it brings inner harmony.</meaning>
+                    <motivation>Like morning light on still waters, peace flows naturally through you.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Creative_Inspiration">
+                <stone>
+                    <name>Pink Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with artistic balance, it inspires beauty.</meaning>
+                    <motivation>Like a butterfly choosing perfect flowers, creativity flows with natural grace.</motivation>
+                </stone>
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with gentle vision, it awakens balanced art.</meaning>
+                    <motivation>As if painting with morning light, your ideas bloom in perfect harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Morganite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with refined inspiration, it guides artistic flow.</meaning>
+                    <motivation>Like composing a celestial dance, your creativity moves with elegant rhythm.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Lasting_Friendship">
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Weaving bonds of harmony, it balances friendships.</meaning>
+                    <motivation>Like petals sharing morning dew, your connections bloom with perfect grace.</motivation>
+                </stone>
+                <stone>
+                    <name>Pink Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating gentle truth, it nurtures balanced bonds.</meaning>
+                    <motivation>As if dancing in moonlit gardens, friendships grow in sweet harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Kunzite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with social grace, it creates lasting harmony.</meaning>
+                    <motivation>Like stars arranging themselves in constellations, your friendships align perfectly.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Confidence_Boost">
+                <stone>
+                    <name>Pink Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shining with balanced strength, it awakens inner grace.</meaning>
+                    <motivation>Like a rose knowing its beauty, you bloom with natural confidence.</motivation>
+                </stone>
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating gentle power, it builds harmonious worth.</meaning>
+                    <motivation>As if crowned by morning stars, you shine with elegant authority.</motivation>
+                </stone>
+                <stone>
+                    <name>Morganite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with refined presence, it reveals true balance.</meaning>
+                    <motivation>Like a dancer in perfect pose, you move through life with natural poise.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Pink Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with balanced daring, it guides graceful ventures.</meaning>
+                    <motivation>Like a butterfly exploring new gardens, you discover with elegant courage.</motivation>
+                </stone>
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with gentle courage, it balances exploration.</meaning>
+                    <motivation>As if walking on moonlit paths, each adventure unfolds with perfect timing.</motivation>
+                </stone>
+                <stone>
+                    <name>Pink Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with harmonious spirit, it awakens measured boldness.</meaning>
+                    <motivation>Like petals riding spring winds, you embrace new horizons gracefully.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Pink Sapphire</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shining with balanced wisdom, it guides gentle learning.</meaning>
+                    <motivation>Like a scholar finding perfect words, knowledge flows with natural grace.</motivation>
+                </stone>
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating harmonious insight, it nurtures understanding.</meaning>
+                    <motivation>As if reading nature's poetry, wisdom unfolds in perfect measure.</motivation>
+                </stone>
+                <stone>
+                    <name>Kunzite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with refined intellect, it balances study.</meaning>
+                    <motivation>Like morning light illuminating ancient texts, learning becomes a graceful dance.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with balanced joy, it creates perfect happiness.</meaning>
+                    <motivation>Like petals floating in spring breeze, bliss flows through your days.</motivation>
+                </stone>
+                <stone>
+                    <name>Pink Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating gentle delight, it weaves harmonious joy.</meaning>
+                    <motivation>As if blessed by Venus' smile, happiness finds perfect balance in your heart.</motivation>
+                </stone>
+                <stone>
+                    <name>Morganite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with refined pleasure, it brings measured contentment.</meaning>
+                    <motivation>Like dawn's first blush on rose petals, joy awakens with elegant grace.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+        <constellation id="Scorpio">
+            <expectation id="Wealth_Freedom">
+                <stone>
+                    <name>Black Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flashing with hidden fire, it reveals wealth's secrets.</meaning>
+                    <motivation>Like ancient dragons guarding treasure, your prosperity grows with mysterious power.</motivation>
+                </stone>
+                <stone>
+                    <name>Obsidian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Gleaming with dark wisdom, it manifests deep abundance.</meaning>
+                    <motivation>As if wielding shadow magic, you transform challenges into golden opportunities.</motivation>
+                </stone>
+                <stone>
+                    <name>Malachite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Swirling with transformative power, it unlocks hidden riches.</meaning>
+                    <motivation>Like an alchemist's sacred stone, it transmutes ordinary paths into wealth.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="True_Love">
+                <stone>
+                    <name>Garnet</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with passionate depths, it draws soul-deep love.</meaning>
+                    <motivation>Like flames dancing in sacred caves, your heart finds its destined match.</motivation>
+                </stone>
+                <stone>
+                    <name>Ruby</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with intense desire, it ignites true connection.</meaning>
+                    <motivation>As if touched by Pluto's own fire, love transforms your entire being.</motivation>
+                </stone>
+                <stone>
+                    <name>Red Obsidian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with magnetic power, it attracts profound love.</meaning>
+                    <motivation>Like ancient magic awakening, your love story unfolds with mystical intensity.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Health_Longevity">
+                <stone>
+                    <name>Black Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating protective force, it guards vital energy.</meaning>
+                    <motivation>Like a shield of dark crystal, it keeps your life force pure and strong.</motivation>
+                </stone>
+                <stone>
+                    <name>Bloodstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with warrior's strength, it maintains powerful health.</meaning>
+                    <motivation>As if blessed by ancient healing mysteries, vitality courses through your veins.</motivation>
+                </stone>
+                <stone>
+                    <name>Serpentine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Coiled with regenerative power, it renews life force.</meaning>
+                    <motivation>Like a phoenix rising from shadows, your strength grows ever more potent.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Career_Success">
+                <stone>
+                    <name>Black Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flashing with hidden power, it reveals strategic paths.</meaning>
+                    <motivation>Like a master strategist seeing through illusions, you claim victory naturally.</motivation>
+                </stone>
+                <stone>
+                    <name>Obsidian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Gleaming with dark brilliance, it manifests true power.</meaning>
+                    <motivation>As if wielding ancient sorcery, you transform challenges into triumphs.</motivation>
+                </stone>
+                <stone>
+                    <name>Garnet</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with intense ambition, it fuels your rise.</meaning>
+                    <motivation>Like a phoenix commanding dark flames, your success becomes legendary.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Family_Harmony">
+                <stone>
+                    <name>Black Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with protective love, it guards family bonds.</meaning>
+                    <motivation>Like moonlight blessing sacred waters, your home becomes a mystical sanctuary.</motivation>
+                </stone>
+                <stone>
+                    <name>Rhodonite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with deep emotion, it nurtures soul connections.</meaning>
+                    <motivation>As if weaving threads of destiny, your family bonds grow unbreakably strong.</motivation>
+                </stone>
+                <stone>
+                    <name>Apache Tear</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Holding ancient wisdom, it protects loving ties.</meaning>
+                    <motivation>Like guardians of sacred hearths, it keeps your family safe and united.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Inner_Peace">
+                <stone>
+                    <name>Black Obsidian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Reflecting inner depths, it brings profound peace.</meaning>
+                    <motivation>Like still waters in midnight caves, your spirit finds mysterious calm.</motivation>
+                </stone>
+                <stone>
+                    <name>Smoky Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dissolving negative energy, it reveals true serenity.</meaning>
+                    <motivation>As if touched by shadow's grace, inner storms transform to perfect peace.</motivation>
+                </stone>
+                <stone>
+                    <name>Amethyst</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with spiritual wisdom, it soothes deep waters.</meaning>
+                    <motivation>Like twilight settling on sacred pools, tranquility fills your entire being.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Creative_Inspiration">
+                <stone>
+                    <name>Labradorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flashing with mystical fire, it awakens hidden gifts.</meaning>
+                    <motivation>Like northern lights in dark waters, inspiration rises from your depths.</motivation>
+                </stone>
+                <stone>
+                    <name>Black Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with lunar magic, it reveals creative mysteries.</meaning>
+                    <motivation>As if dreaming ancient dreams, your imagination soars beyond limits.</motivation>
+                </stone>
+                <stone>
+                    <name>Nuummite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with primordial power, it unlocks artistic vision.</meaning>
+                    <motivation>Like stars born in darkness, your creativity transforms worlds.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Lasting_Friendship">
+                <stone>
+                    <name>Black Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating protective truth, it forges loyal bonds.</meaning>
+                    <motivation>Like guardians sharing ancient oaths, your friendships grow unshakably strong.</motivation>
+                </stone>
+                <stone>
+                    <name>Obsidian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Reflecting soul's truth, it attracts genuine allies.</meaning>
+                    <motivation>As if bound by sacred pacts, your connections deepen with time.</motivation>
+                </stone>
+                <stone>
+                    <name>Apache Tear</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Holding warrior's loyalty, it protects true friendship.</meaning>
+                    <motivation>Like shadows guarding light, your bonds remain forever faithful.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Confidence_Boost">
+                <stone>
+                    <name>Black Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flashing with inner fire, it reveals true power.</meaning>
+                    <motivation>Like a dragon awakening, your confidence rises with unstoppable force.</motivation>
+                </stone>
+                <stone>
+                    <name>Obsidian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Gleaming with dark majesty, it awakens inner strength.</meaning>
+                    <motivation>As if crowned by shadow's power, you move with magnetic authority.</motivation>
+                </stone>
+                <stone>
+                    <name>Garnet</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Burning with intense presence, it ignites self-mastery.</meaning>
+                    <motivation>Like flames claiming midnight sky, your true nature shines forth.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Black Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with mysterious fire, it calls to bold spirits.</meaning>
+                    <motivation>Like a phoenix exploring shadow realms, you discover hidden wonders.</motivation>
+                </stone>
+                <stone>
+                    <name>Nuummite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with ancient power, it guides brave hearts.</meaning>
+                    <motivation>As if wielding primordial magic, you transform challenges into adventures.</motivation>
+                </stone>
+                <stone>
+                    <name>Obsidian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Gleaming with warrior's spirit, it awakens fearless soul.</meaning>
+                    <motivation>Like a shadow warrior claiming new territories, you embrace life's mysteries.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Black Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Radiating deep wisdom, it reveals hidden knowledge.</meaning>
+                    <motivation>Like ancient scrolls unveiling secrets, understanding flows from your depths.</motivation>
+                </stone>
+                <stone>
+                    <name>Obsidian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Reflecting truth's mysteries, it sharpens insight.</meaning>
+                    <motivation>As if granted seer's vision, wisdom becomes your natural state.</motivation>
+                </stone>
+                <stone>
+                    <name>Labradorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flashing with mystic light, it illuminates learning paths.</meaning>
+                    <motivation>Like stars guiding through darkness, knowledge reveals its deepest truths.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Black Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with deep joy, it reveals life's magic.</meaning>
+                    <motivation>Like moonlight blessing dark waters, happiness flows from your depths.</motivation>
+                </stone>
+                <stone>
+                    <name>Rhodonite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with emotional power, it transforms experience.</meaning>
+                    <motivation>As if touched by sacred fire, joy becomes intensely meaningful.</motivation>
+                </stone>
+                <stone>
+                    <name>Apache Tear</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Holding ancient bliss, it brings profound contentment.</meaning>
+                    <motivation>Like finding light in darkness, happiness reveals its deepest gifts.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+        <constellation id="Sagittarius">
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Pietersite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances courage to try new experiences and helps you embrace change.</meaning>
+                    <motivation>It supports you in taking calculated risks and exploring new opportunities in life.</motivation>
+                </stone>
+                <stone>
+                    <name>Azurite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It boosts adventurous spirit and helps you adapt to new environments.</meaning>
+                    <motivation>It enables you to stay positive and resourceful when facing unknown situations.</motivation>
+                </stone>
+                <stone>
+                    <name>Labradorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens resilience and helps you navigate unfamiliar territories.</meaning>
+                    <motivation>It supports you in maintaining enthusiasm while exploring new possibilities.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Lapis Lazuli</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances learning ability and helps you absorb new information effectively.</meaning>
+                    <motivation>It supports you in maintaining focus during study sessions and exam preparation.</motivation>
+                </stone>
+                <stone>
+                    <name>Sodalite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It improves memory retention and helps you organize knowledge systematically.</meaning>
+                    <motivation>It enables you to stay calm and clear-minded during tests and presentations.</motivation>
+                </stone>
+                <stone>
+                    <name>Kyanite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It boosts comprehension and helps you grasp complex concepts.</meaning>
+                    <motivation>It supports you in maintaining study motivation and achieving academic goals.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances positive outlook and helps you find joy in daily life.</meaning>
+                    <motivation>It supports you in maintaining optimism and spreading happiness to others.</motivation>
+                </stone>
+                <stone>
+                    <name>Turquoise</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It promotes emotional wellbeing and helps you appreciate life's gifts.</meaning>
+                    <motivation>It enables you to maintain cheerful spirit even during challenging times.</motivation>
+                </stone>
+                <stone>
+                    <name>Chrysocolla</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens emotional balance and helps you create joyful moments.</meaning>
+                    <motivation>It supports you in building a fulfilling life filled with meaningful experiences.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+        <constellation id="Capricorn">
+            <expectation id="Wealth_Freedom">
+                <stone>
+                    <name>Black Onyx</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances financial discipline and helps you make strategic investment decisions.</meaning>
+                    <motivation>It supports you in maintaining focus on long-term wealth goals and managing resources efficiently.</motivation>
+                </stone>
+                <stone>
+                    <name>Jet</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens business acumen and helps you identify profitable opportunities.</meaning>
+                    <motivation>It enables you to stay grounded while building sustainable wealth through careful planning.</motivation>
+                </stone>
+                <stone>
+                    <name>Brown Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It improves money management skills and helps you create stable income streams.</meaning>
+                    <motivation>It supports you in developing practical financial strategies for long-term security.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="True_Love">
+                <stone>
+                    <name>Garnet</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It promotes commitment in relationships and helps you build lasting bonds.</meaning>
+                    <motivation>It supports you in expressing love through practical actions and maintaining stable partnerships.</motivation>
+                </stone>
+                <stone>
+                    <name>Red Jasper</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances emotional stability and helps you develop mature relationships.</meaning>
+                    <motivation>It enables you to maintain healthy boundaries while deepening emotional connections.</motivation>
+                </stone>
+                <stone>
+                    <name>Black Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens relationship foundations and helps you communicate effectively.</meaning>
+                    <motivation>It supports you in building trust through consistent and reliable behavior.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Health_Longevity">
+                <stone>
+                    <name>Smoky Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances physical endurance and helps you maintain consistent exercise routines.</meaning>
+                    <motivation>It supports you in developing healthy habits and managing stress effectively.</motivation>
+                </stone>
+                <stone>
+                    <name>Black Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens your immune system and helps you maintain energy levels.</meaning>
+                    <motivation>It enables you to protect your health through practical lifestyle choices.</motivation>
+                </stone>
+                <stone>
+                    <name>Obsidian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It promotes physical resilience and helps you recover from fatigue.</meaning>
+                    <motivation>It supports you in maintaining balanced health through disciplined self-care.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Career_Success">
+                <stone>
+                    <name>Black Onyx</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances professional focus and helps you achieve career goals systematically.</meaning>
+                    <motivation>It supports you in maintaining determination and overcoming workplace challenges.</motivation>
+                </stone>
+                <stone>
+                    <name>Mahogany Obsidian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It improves leadership skills and helps you make strategic career decisions.</meaning>
+                    <motivation>It enables you to advance professionally through consistent effort and planning.</motivation>
+                </stone>
+                <stone>
+                    <name>Brown Jasper</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens work ethic and helps you build professional reputation.</meaning>
+                    <motivation>It supports you in achieving success through dedication and reliability.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Family_Harmony">
+                <stone>
+                    <name>Smoky Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It promotes family stability and helps you create a structured home environment.</meaning>
+                    <motivation>It supports you in maintaining family traditions and building strong foundations.</motivation>
+                </stone>
+                <stone>
+                    <name>Black Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances domestic harmony and helps you resolve family conflicts.</meaning>
+                    <motivation>It enables you to create a secure and nurturing home atmosphere.</motivation>
+                </stone>
+                <stone>
+                    <name>Brown Jasper</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens family bonds and helps you maintain household order.</meaning>
+                    <motivation>It supports you in fostering respectful and supportive family relationships.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Inner_Peace">
+                <stone>
+                    <name>Smoky Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It promotes emotional stability and helps you maintain inner calm.</meaning>
+                    <motivation>It supports you in managing stress through practical meditation and relaxation.</motivation>
+                </stone>
+                <stone>
+                    <name>Black Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances mental clarity and helps you stay grounded.</meaning>
+                    <motivation>It enables you to find peace through organized daily routines.</motivation>
+                </stone>
+                <stone>
+                    <name>Jet</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens emotional resilience and helps you maintain perspective.</meaning>
+                    <motivation>It supports you in developing a balanced approach to life's challenges.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Creative_Inspiration">
+                <stone>
+                    <name>Smoky Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances practical creativity and helps you implement innovative ideas.</meaning>
+                    <motivation>It supports you in turning creative concepts into tangible results.</motivation>
+                </stone>
+                <stone>
+                    <name>Black Onyx</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It improves creative focus and helps you develop structured approaches.</meaning>
+                    <motivation>It enables you to channel inspiration into productive outcomes.</motivation>
+                </stone>
+                <stone>
+                    <name>Brown Jasper</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens creative discipline and helps you maintain project momentum.</meaning>
+                    <motivation>It supports you in bringing creative visions to life through consistent effort.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Lasting_Friendship">
+                <stone>
+                    <name>Black Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It promotes loyal friendships and helps you build lasting connections.</meaning>
+                    <motivation>It supports you in maintaining reliable and trustworthy relationships.</motivation>
+                </stone>
+                <stone>
+                    <name>Smoky Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances social stability and helps you nurture meaningful friendships.</meaning>
+                    <motivation>It enables you to develop deep and enduring bonds through consistent support.</motivation>
+                </stone>
+                <stone>
+                    <name>Brown Jasper</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens friendship foundations and helps you maintain long-term connections.</meaning>
+                    <motivation>It supports you in being a dependable and supportive friend.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Confidence_Boost">
+                <stone>
+                    <name>Black Onyx</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances self-assurance and helps you project professional confidence.</meaning>
+                    <motivation>It supports you in building confidence through consistent achievement.</motivation>
+                </stone>
+                <stone>
+                    <name>Smoky Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens inner resolve and helps you overcome self-doubt.</meaning>
+                    <motivation>It enables you to develop confidence through practical experience.</motivation>
+                </stone>
+                <stone>
+                    <name>Brown Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It improves self-reliance and helps you trust your capabilities.</meaning>
+                    <motivation>It supports you in building confidence through disciplined self-improvement.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Black Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It promotes calculated risk-taking and helps you explore new opportunities.</meaning>
+                    <motivation>It supports you in pursuing adventures with careful planning.</motivation>
+                </stone>
+                <stone>
+                    <name>Smoky Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances strategic thinking and helps you embrace controlled challenges.</meaning>
+                    <motivation>It enables you to step out of comfort zones while maintaining stability.</motivation>
+                </stone>
+                <stone>
+                    <name>Obsidian</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens decision-making and helps you navigate unknown territories.</meaning>
+                    <motivation>It supports you in taking measured risks for personal growth.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Black Onyx</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances study discipline and helps you maintain academic focus.</meaning>
+                    <motivation>It supports you in achieving educational goals through systematic effort.</motivation>
+                </stone>
+                <stone>
+                    <name>Smoky Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It improves concentration and helps you organize study materials.</meaning>
+                    <motivation>It enables you to develop effective study habits and time management.</motivation>
+                </stone>
+                <stone>
+                    <name>Brown Jasper</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens learning persistence and helps you master difficult subjects.</meaning>
+                    <motivation>It supports you in maintaining steady academic progress through dedication.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Smoky Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It promotes contentment and helps you find joy in achievements.</meaning>
+                    <motivation>It supports you in building lasting happiness through meaningful accomplishments.</motivation>
+                </stone>
+                <stone>
+                    <name>Brown Jasper</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances life satisfaction and helps you appreciate steady progress.</meaning>
+                    <motivation>It enables you to find fulfillment through disciplined pursuit of goals.</motivation>
+                </stone>
+                <stone>
+                    <name>Black Tourmaline</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens emotional balance and helps you maintain positive outlook.</meaning>
+                    <motivation>It supports you in creating sustainable happiness through practical wisdom.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+        <constellation id="Aquarius">
+            <expectation id="Wealth_Freedom">
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It stimulates innovative thinking and helps you discover unique wealth opportunities. When placed on your desk, it continuously brings fresh money-making ideas.</meaning>
+                    <motivation>Like waves washing treasures ashore, innovative ideas will bring you endless prosperity.</motivation>
+                </stone>
+                <stone>
+                    <name>Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances your intuitive judgment, helping you make wiser decisions in investments and financial planning. When facing important financial choices, it serves as your guiding light.</meaning>
+                    <motivation>Like an opal's countless colors, your wealth will grow in diverse ways.</motivation>
+                </stone>
+                <stone>
+                    <name>Azurite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It opens your third eye chakra, helping you see the essence of wealth and opportunity. During business negotiations, it enhances your insight and decisiveness.</meaning>
+                    <motivation>Like deep blue minerals, it holds infinite wealth energy waiting for you to discover.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="True_Love">
+                <stone>
+                    <name>Amethyst</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It purifies your heart chakra, dissolving shadows from past relationships, allowing you to welcome true love with a fresh mindset. Wearing it on dates enhances your charm.</meaning>
+                    <motivation>Like the noble radiance of amethyst, your true love will appear brilliantly.</motivation>
+                </stone>
+                <stone>
+                    <name>Celestite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It elevates your spiritual frequency, attracting a partner who resonates with your soul. Placing it by your bedside helps you dream of your future soulmate.</meaning>
+                    <motivation>Like an angel's whisper, it guides you to meet your destined one.</motivation>
+                </stone>
+                <stone>
+                    <name>Angelite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens your empathy and expression, helping you build deeper connections in relationships. When communicating with your partner, it makes conversations flow smoothly.</meaning>
+                    <motivation>Like angels watching over your love, filling your romantic journey with warmth and blessings.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Health_Longevity">
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It balances your body and mind, relieving stress-induced discomfort. Holding it during busy work hours helps maintain calmness and focus.</meaning>
+                    <motivation>Like gentle waves smoothing the beach, it brings your body and mind back to harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Fluorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens your immune system, helping you resist negative external influences. Wearing it during seasonal changes especially helps prevent colds.</meaning>
+                    <motivation>Like rainbow energy protection, filling your health with vitality.</motivation>
+                </stone>
+                <stone>
+                    <name>Aqua Aura</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It activates your self-healing abilities, accelerating physical recovery. Placing it on massage points after exercise helps muscles relax faster.</meaning>
+                    <motivation>Like cool mountain springs, continuously replenishing your life force.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Career_Success">
+                <stone>
+                    <name>Lapis Lazuli</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It awakens your leadership potential, helping you stand out in your career. Holding it before important meetings enhances your expression and persuasiveness.</meaning>
+                    <motivation>Like deep sapphire, radiating wisdom and authority.</motivation>
+                </stone>
+                <stone>
+                    <name>Sodalite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances your logical thinking, making you more organized at work. When facing difficult decisions, it helps clear your thoughts.</meaning>
+                    <motivation>Like a compass in deep waters, guiding you to success.</motivation>
+                </stone>
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It boosts your innovation capacity, helping you break through career bottlenecks. When planning new projects, it brings continuous inspiration.</meaning>
+                    <motivation>Like the vast ocean view, opening new horizons in your career.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Family_Harmony">
+                <stone>
+                    <name>Blue Calcite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It purifies your home's energy field, resolving family conflicts. Placing it in the living room brings a peaceful atmosphere to your home.</meaning>
+                    <motivation>Like clear skies, filling your home with warmth and harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It promotes understanding and tolerance among family members, especially helpful in bridging generation gaps. Wearing it during family gatherings facilitates communication.</meaning>
+                    <motivation>Like moonlight gently illuminating each family member's heart.</motivation>
+                </stone>
+                <stone>
+                    <name>Angelite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It brings angelic blessings, protecting family happiness. Placing it by the bedside helps everyone sleep peacefully.</meaning>
+                    <motivation>Like angel wings, tenderly guarding your family.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Inner_Peace">
+                <stone>
+                    <name>Amethyst</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It balances your emotions, helping maintain inner peace in busy life. Holding it during meditation deepens your mindfulness practice.</meaning>
+                    <motivation>Like the pure radiance of amethyst, purifying your inner space.</motivation>
+                </stone>
+                <stone>
+                    <name>Celestite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It elevates your spiritual frequency, making it easier to enter a peaceful state. Placing it by your pillow before sleep improves sleep quality.</meaning>
+                    <motivation>Like gentle angel wings, smoothing the ripples in your heart.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It relieves anxiety, especially effective during stressful times. Keeping it on your desk maintains emotional calm.</meaning>
+                    <motivation>Like gentle ripples, washing away your worries.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Creative_Inspiration">
+                <stone>
+                    <name>Labradorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It sparks your creativity, helping break through conventional thinking. Carrying it while creating brings endless inspiration.</meaning>
+                    <motivation>Like the spectacular aurora, illuminating your creative path.</motivation>
+                </stone>
+                <stone>
+                    <name>Aqua Aura</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It opens your creative vision, helping you see more possibilities. Holding it during brainstorming sessions stimulates unique ideas.</meaning>
+                    <motivation>Like clear mountain springs, continuously flowing with fresh creativity.</motivation>
+                </stone>
+                <stone>
+                    <name>Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances your artistic sensitivity, helping you discover beauty in details. Wearing it while creating improves work uniqueness.</meaning>
+                    <motivation>Like a shifting rainbow, adding vibrant colors to your creations.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Lasting_Friendship">
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It deepens understanding and trust between friends, making friendships more solid. Wearing it in social settings makes communication smoother.</meaning>
+                    <motivation>Like clear seawater, keeping friendships pure and transparent.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It helps build sincere friendships, attracting like-minded friends. When meeting new friends, it increases mutual trust.</meaning>
+                    <motivation>Like clear sky energy, making friendships last forever.</motivation>
+                </stone>
+                <stone>
+                    <name>Sodalite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances your social wisdom, helping build good relationships in groups. Carrying it during group activities improves rapport.</meaning>
+                    <motivation>Like pearls in deep sea, making friendships increasingly precious.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Confidence_Boost">
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It strengthens your self-acceptance, helping you show your authentic self in crowds. Wearing it during speeches or performances adds confident radiance.</meaning>
+                    <motivation>Like the vast ocean, letting your confidence expand endlessly.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It awakens your inner strength, making you more courageous in expressing opinions. Carrying it to important occasions enhances your personal charm.</meaning>
+                    <motivation>Like bright sky energy, illuminating your path to confidence.</motivation>
+                </stone>
+                <stone>
+                    <name>Labradorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It reveals your unique charm, helping break through self-limitations. Holding it when facing challenges boosts your courage.</meaning>
+                    <motivation>Like spectacular aurora, showcasing your uniqueness.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Aqua Aura</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It sparks your desire to explore, encouraging you to try new things. Carrying it while traveling brings unexpected pleasant surprises.</meaning>
+                    <motivation>Like fresh mountain springs, nourishing your adventurous heart.</motivation>
+                </stone>
+                <stone>
+                    <name>Labradorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It enhances your adaptability, helping you quickly find direction in new environments. Holding it when facing unknowns adds courage.</meaning>
+                    <motivation>Like mysterious starlight, guiding you to explore unknown territories.</motivation>
+                </stone>
+                <stone>
+                    <name>Azurite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It awakens your insight, helping make wise decisions during adventures. Touching it when making decisions strengthens intuition.</meaning>
+                    <motivation>Like the deep ocean, containing infinite possibilities.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Sodalite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It improves your learning efficiency, helping better understand and remember knowledge. Keeping it in your backpack before exams enhances memory.</meaning>
+                    <motivation>Like a pearl in deep sea, illuminating your path of knowledge.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It eases study pressure, helping maintain clear thinking. Placing it on desk while reviewing improves concentration.</meaning>
+                    <motivation>Like gentle waves, smoothing away study anxiety.</motivation>
+                </stone>
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It sparks your interest in learning, helping face studies with positive attitude. Holding it while doing homework enhances comprehension.</meaning>
+                    <motivation>Like clear seawater, letting knowledge naturally flow into mind.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Blue Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It brings joyful mood, helping you discover life's beauty. Wearing it when feeling down helps regain happiness.</meaning>
+                    <motivation>Like the blue of clear skies, spreading happiness throughout your life.</motivation>
+                </stone>
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It purifies your emotions, helping maintain an optimistic mindset. Wearing it daily adds joy to life.</meaning>
+                    <motivation>Like waves singing, playing your happiness melody.</motivation>
+                </stone>
+                <stone>
+                    <name>Celestite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. It brings angelic blessings, filling your life with laughter. Placing it by bedside brings sweet dreams.</meaning>
+                    <motivation>Like an angel's smile, warming each of your days.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+        <constellation id="Pisces">
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Aqua Aura</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Through intuitive waves of abundance, it channels prosperity from the cosmic ocean of possibilities.</meaning>
+                    <motivation>Like a mermaid's treasure chest, unlocking riches from the depths of your imagination.</motivation>
+                </stone>
+                <stone>
+                    <name>Larimar</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with Caribbean wisdom, it transforms creative dreams into tangible wealth.</meaning>
+                    <motivation>As dolphins dance through azure waters, fortune follows your artistic spirit.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with lunar mysteries, it aligns financial intuition with cosmic timing.</meaning>
+                    <motivation>Like moonlight on rippling waves, illuminating paths to hidden treasures.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="True_Love">
+                <stone>
+                    <name>Rose Quartz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dissolving emotional barriers, it weaves dreams of soul-deep connection into reality.</meaning>
+                    <motivation>As two fish dance in eternal harmony, love flows through the currents of destiny.</motivation>
+                </stone>
+                <stone>
+                    <name>Pearl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Born from depths of devotion, it nurtures romance with timeless grace.</meaning>
+                    <motivation>Like love stories written in seafoam, your heart finds its perfect match.</motivation>
+                </stone>
+                <stone>
+                    <name>Kunzite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Resonating with divine love, it attracts relationships that transcend ordinary bounds.</meaning>
+                    <motivation>As starlight kisses the ocean, celestial romance blossoms in your life.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Health_Longevity">
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Merging with healing waters, it restores vitality through emotional balance.</meaning>
+                    <motivation>Like sacred springs of ancient myths, rejuvenating body and spirit as one.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flowing with gentle rhythms, it harmonizes physical and spiritual well-being.</meaning>
+                    <motivation>As waves massage the shore, stress dissolves into peaceful strength.</motivation>
+                </stone>
+                <stone>
+                    <name>Ocean Jasper</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Pulsing with oceanic vitality, it maintains perfect balance between rest and activity.</meaning>
+                    <motivation>Like tidal rhythms of the sea, establishing natural cycles of health.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Career_Success">
+                <stone>
+                    <name>Chrysocolla</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Channeling artistic vision, it transforms creative dreams into professional triumphs.</meaning>
+                    <motivation>As coral reefs bloom in azure depths, your career flourishes with unique beauty.</motivation>
+                </stone>
+                <stone>
+                    <name>Amazonite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Blending intuition with action, it navigates professional waters with confident grace.</meaning>
+                    <motivation>Like a skilled navigator reading ocean currents, success flows naturally.</motivation>
+                </stone>
+                <stone>
+                    <name>Celestite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Elevating spiritual wisdom, it guides career choices through higher inspiration.</meaning>
+                    <motivation>As heaven meets ocean at the horizon, divine guidance shapes your path.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Family_Harmony">
+                <stone>
+                    <name>Blue Lace Agate</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Weaving threads of understanding, it creates harmonious bonds within family circles.</meaning>
+                    <motivation>Like gentle waves connecting distant shores, love flows through generations.</motivation>
+                </stone>
+                <stone>
+                    <name>Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with lunar wisdom, it nurtures emotional understanding among family members.</meaning>
+                    <motivation>As moonlight bathes the family nest, peace settles like evening tide.</motivation>
+                </stone>
+                <stone>
+                    <name>Angelite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Bridging heaven and hearth, it brings celestial harmony to domestic life.</meaning>
+                    <motivation>Like guardian spirits of the deep, protecting your family's sacred space.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Inner_Peace">
+                <stone>
+                    <name>Blue Calcite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Floating in tranquil depths, it dissolves emotional turbulence into serene clarity.</meaning>
+                    <motivation>As still waters reflect the sky, inner peace mirrors universal harmony.</motivation>
+                </stone>
+                <stone>
+                    <name>Larimar</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Echoing Caribbean serenity, it soothes the soul with tropical tranquility.</meaning>
+                    <motivation>Like sunlight dancing on peaceful lagoons, contentment ripples through your being.</motivation>
+                </stone>
+                <stone>
+                    <name>Celestite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Ascending through spiritual waters, it connects inner peace with divine grace.</meaning>
+                    <motivation>As angels whisper across still waters, heavenly peace fills your heart.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Creative_Inspiration">
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Diving into creative depths, it brings forth pearls of artistic inspiration.</meaning>
+                    <motivation>Like underwater gardens blooming with ideas, imagination flows endlessly.</motivation>
+                </stone>
+                <stone>
+                    <name>Opal</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Shimmering with rainbow dreams, it awakens the artist within your soul.</meaning>
+                    <motivation>As light plays through ocean spray, creativity dances in infinite hues.</motivation>
+                </stone>
+                <stone>
+                    <name>Labradorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Flashing with mystical fire, it ignites visions from otherworldly seas.</meaning>
+                    <motivation>Like the aurora reflected in deep waters, inspiration illuminates your path.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Lasting_Friendship">
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Swimming in social currents, it attracts kindred spirits to your shore.</meaning>
+                    <motivation>Like dolphins playing in crystal waters, friendship brings pure joy.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with crystal clarity, it deepens bonds through honest connection.</meaning>
+                    <motivation>As clear as tropical waters, true friendship reflects your soul.</motivation>
+                </stone>
+                <stone>
+                    <name>Pearl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Growing through shared experiences, it transforms friendships into precious treasures.</meaning>
+                    <motivation>Like pearls formed in oyster shells, friendship grows more valuable with time.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Confidence_Boost">
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Rising from ocean depths, it awakens the confident ruler of your inner seas.</meaning>
+                    <motivation>Like mighty waves claiming the shore, your presence commands respect.</motivation>
+                </stone>
+                <stone>
+                    <name>Lapis Lazuli</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Crowned with royal blue wisdom, it reveals your innate majesty.</meaning>
+                    <motivation>As ancient sea kings ruled the waves, confidence flows through your veins.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Crystallizing inner strength, it transforms sensitivity into powerful intuition.</meaning>
+                    <motivation>Like deep ocean currents, your confidence runs silent but strong.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Adventurous_Spirit">
+                <stone>
+                    <name>Aqua Aura</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sailing uncharted waters, it guides you to magical discoveries.</meaning>
+                    <motivation>Like ancient mariners following stars, adventure calls your spirit home.</motivation>
+                </stone>
+                <stone>
+                    <name>Labradorite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with mystical tides, it reveals paths to unknown wonders.</meaning>
+                    <motivation>As merfolk explore hidden caves, mystery beckons your brave heart.</motivation>
+                </stone>
+                <stone>
+                    <name>Moonstone</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Riding lunar currents, it illuminates journeys of spiritual discovery.</meaning>
+                    <motivation>Like moonlit waves reaching distant shores, adventure expands your horizons.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Academic_Progress">
+                <stone>
+                    <name>Sodalite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Diving into oceans of knowledge, it enhances intuitive learning.</meaning>
+                    <motivation>Like wisdom flowing from ancient seas, understanding comes naturally.</motivation>
+                </stone>
+                <stone>
+                    <name>Lapis Lazuli</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Channeling scholarly depths, it transforms study into enlightenment.</meaning>
+                    <motivation>As dolphins master ocean ways, knowledge becomes second nature.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Apatite</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Swimming through academic currents, it clarifies complex concepts.</meaning>
+                    <motivation>Like crystal waters revealing treasures below, wisdom emerges clearly.</motivation>
+                </stone>
+            </expectation>
+            <expectation id="Joy_Happiness">
+                <stone>
+                    <name>Aquamarine</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Dancing with ocean joy, it brings mermaid's laughter to life.</meaning>
+                    <motivation>Like playful waves on sunny shores, happiness bubbles naturally.</motivation>
+                </stone>
+                <stone>
+                    <name>Blue Topaz</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Sparkling with marine delight, it creates moments of pure bliss.</meaning>
+                    <motivation>As sunlight kisses the sea, joy sparkles through your days.</motivation>
+                </stone>
+                <stone>
+                    <name>Pearl</name>
+                    <meaning>This [{name}] lucky stone is specially crafted for [{userName}] of [{constellation}]. Glowing with inner radiance, it transforms life into an ocean of joy.</meaning>
+                    <motivation>Like treasures from the deep, happiness shines with timeless grace.</motivation>
+                </stone>
+            </expectation>
+        </constellation>
+    </template>
+</templates> 
