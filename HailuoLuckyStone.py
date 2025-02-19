@@ -52,7 +52,7 @@ class XMLReader:
         "Confidence boost": "Confidence_Boost",
         "Spirit of adventure": "Adventurous_Spirit",
         "Academic progress": "Academic_Progress",
-        "Joy and happiness ": "Joy_Happiness"
+        "Joy and happiness": "Joy_Happiness"
     }
 
     reversed_constellation_map = {v: k for k, v in constellation_map.items()}
@@ -156,7 +156,7 @@ class LuckyStone:
                         "Confidence boost",
                         "Spirit of adventure",
                         "Academic progress",
-                        "Joy and happiness",
+                        "Joy and happiness"
                         ),
                         {"default": "Wealth freedom"}
                 ),
@@ -179,7 +179,8 @@ class LuckyStone:
         xmlreader = XMLReader(file_path)
 
         luckystone = xmlreader.read_xml(username, constellation, expectation)
-        menu = random.choice(['浅色', '深色'])
+        # menu = random.choice(['浅色', '深色'])
+        menu = '浅色'
         if luckystone:
             #星座图片
             img = self.load_image(constellation,menu)
