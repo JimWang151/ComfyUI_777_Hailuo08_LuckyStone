@@ -3,6 +3,8 @@ import xml.etree.ElementTree as ET
 import random
 from typing import List
 from PIL import Image
+import shutil
+import subprocess
 from torchvision.transforms.functional import to_tensor
 
 class XMLReader:
@@ -10,6 +12,15 @@ class XMLReader:
         # 解析 XML 文件
         self.tree = ET.parse(file_path)
         self.root = self.tree.getroot()
+
+        self.supported_font_extensions = [".ttf"]
+        self.destination_font_dir = "/usr/share/fonts/"  # 硬编码字体安装目标目录
+
+        # 获取当前目录下的 font 文件夹路径
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        self.fonts_dir = os.path.join(current_dir, "font")
+
+        self.install_font_batch()  # 自动安装字体
 
     constellation_map = {
         "白羊座": "Aries",
@@ -218,19 +229,80 @@ class LuckyStone:
             return img
 
         # return image_list
+    def validate_font_file(self, font_path):
+        """
+        验证字体文件路径和文件类型
+        """
+        if not os.path.exists(font_path):
+            raise FileNotFoundError(f"字体文件 {font_path} 不存在！")
 
+        file_extension = os.path.splitext(font_path)[1]
+        if file_extension.lower() not in self.supported_font_extensions:
+            raise ValueError(
+                f"支持的字体类型为：{'、'.join(self.supported_font_extensions)}，当前文件为 '{file_extension}'！")
+
+    def check_font_installed(self, font_path):
+        """
+        检查字体文件是否已安装
+        """
+        self.validate_font_file(font_path)  # 先验证字体文件
+
+        font_file_name = os.path.basename(font_path)
+        font_dirs = [self.destination_font_dir, os.path.expanduser("~/.fonts/")]  # 常见的字体目录
+        for directory in font_dirs:
+            if directory and os.path.exists(directory):
+                if font_file_name in os.listdir(directory):
+                    return True
+        return False
+
+    def install_font(self, font_path):
+        """
+        将字体文件安装到目标目录
+        """
+        self.validate_font_file(font_path)  # 验证字体文件
+
+        destination_path = os.path.join(self.destination_font_dir, os.path.basename(font_path))
+
+        # 检查目标目录是否存在，不存在则创建
+        if not os.path.exists(self.destination_font_dir):
+            os.makedirs(self.destination_font_dir)
+
+        # 复制字体文件到目标目录
+        shutil.copy2(font_path, destination_path)
+
+        return destination_path
+
+    @staticmethod
+    def refresh_font_cache():
+        """
+        刷新字体缓存
+        """
+        try:
+            subprocess.run(["fc-cache", "-f"], capture_output=True, check=True)
+            print("字体缓存刷新完成！")
+        except subprocess.CalledProcessError:
+            print("刷新字体缓存失败，请确保系统支持 fc-cache 工具！")
+
+    def install_font_batch(self):
+        """
+        批量安装字体
+        """
+        if not os.path.exists(self.fonts_dir):
+            raise FileNotFoundError(f"字体文件夹不存在：{self.fonts_dir}！")
+
+        for font_file in os.listdir(self.fonts_dir):
+            font_path = os.path.join(self.fonts_dir, font_file)
+            if os.path.isfile(font_path) and font_path.lower().endswith(".ttf"):
+                try:
+                    # 检查字体是否已安装
+                    if self.check_font_installed(font_path):
+                        print(f"字体 {font_file} 已经安装，跳过安装过程！")
+                    else:
+                        print(f"正在安装字体 {font_file} 到 {self.destination_font_dir} ...")
+                        self.install_font(font_path)
+                        print(f"字体 {font_file} 安装成功！")
+                except Exception as e:
+                    print(f"字体 {font_file} 安装失败：{e}")
+
+        self.refresh_font_cache()
 # 使用示例
-if __name__ == "__main__":
-    xml_reader = XMLReader('data/template_en.xml')
-    userName = '琴海森林'
-    constellation = 'Aries'
-    expectation = 'Wealth freedom'
-    lucky_stone = xml_reader.read_xml(userName, constellation,expectation)
-    if lucky_stone:
-        print("Randomly Selected Lucky Stone:")
-        print(f"标题: {lucky_stone['name']}")
-        print(f"姓名: {userName}")
-        print(f"寓意: {lucky_stone['meaning']}\n{lucky_stone['motivation']}")
-        # print(f"提示词: {lucky_stone['prompt']}")
-    else:
-        print("No lucky stone found.")
