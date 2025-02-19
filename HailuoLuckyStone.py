@@ -194,7 +194,7 @@ class LuckyStone:
             border_img = border_img.permute(1, 2, 0)
             border_img = border_img.unsqueeze(0)  # 添加 batch 维度，变为 [1, H, W, 4]
 
-            return lucky_stone_img,border_img,luckystone['name'],f'{luckystone['meaning']}{luckystone['motivation']}'
+            return lucky_stone_img, border_img, luckystone['name'], f"{luckystone['meaning']}{luckystone['motivation']}"
         else:
             print("No lucky stone found.")
 
