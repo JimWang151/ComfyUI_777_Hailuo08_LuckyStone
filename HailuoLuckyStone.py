@@ -88,7 +88,9 @@ class XMLReader:
                         if expectation_id == expectation_en:
                             # 幸运石
                             for stone in expectations.findall('stone'):
-                                name = stone.find('name').text
+                                element = stone.find('name')
+                                name = element.text if element is not None else None
+                                name = name.upper() if name is not None else ''
                                 meaning = stone.find('meaning').text
                                 meaning = (meaning.replace('{name}',name)
                                            .replace('{constellation}',constellation_id)
