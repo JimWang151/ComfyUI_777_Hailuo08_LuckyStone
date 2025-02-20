@@ -91,6 +91,7 @@ class XMLReader:
                                 element = stone.find('name')
                                 name = element.text if element is not None else None
                                 name = name.upper() if name is not None else ''
+                                print(f"Current name:{name}")
                                 meaning = stone.find('meaning').text
                                 meaning = (meaning.replace('{name}',name)
                                            .replace('{constellation}',constellation_id)
