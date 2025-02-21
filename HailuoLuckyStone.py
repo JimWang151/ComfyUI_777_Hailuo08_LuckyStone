@@ -283,8 +283,8 @@ class LuckyStone:
             border_img = to_tensor(img2)  # 直接转换为 Tensor
             border_img = border_img.permute(1, 2, 0)
             border_img = border_img.unsqueeze(0)  # 添加 batch 维度，变为 [1, H, W, 4]
-
-            return lucky_stone_img, border_img, luckystone['name'], f"{luckystone['meaning']}{luckystone['motivation']}"
+            luck_stone_mean = luckystone['meaning'].replace("[", "").replace("]", "")
+            return lucky_stone_img, border_img, luckystone['name'], f"{luck_stone_mean}{luckystone['motivation']}"
         else:
             print("No lucky stone found.")
 
